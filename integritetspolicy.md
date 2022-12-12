@@ -79,7 +79,7 @@ för att utöva rätten till yttrande- och informationsfrihet;
 för att uppfylla en rättslig förpliktelse som kräver behandling enligt unionsrätten eller enligt en medlemsstats nationella rätt som den personuppgiftsansvarige omfattas av eller för att utföra en uppgift av allmänt intresse eller som är ett led i myndighetsutövning som utförs av den personuppgiftsansvarige;
 för arkivändamål av allmänt intresse, vetenskapliga eller historiska forskningsändamål eller statistiska ändamål enligt artikel 89.1 i GDPR, i den utsträckning som din rätt till radering sannolikt omöjliggör eller avsevärt försvårar uppnåendet av syftet med den behandlingen; eller
 för att kunna fastställa, göra gällande eller försvara rättsliga anspråk.
- Den personuppgiftsansvarige kommer underrätta varje mottagare till vilka personuppgifterna har lämnats ut om eventuell radering som skett enligt ovan, om inte detta visar sig vara omöjligt eller medför en oproportionell ansträngning. Om du vill ha information om dessa mottagare är du välkommen att kontakta Agronod.
+Den personuppgiftsansvarige kommer underrätta varje mottagare till vilka personuppgifterna har lämnats ut om eventuell radering som skett enligt ovan, om inte detta visar sig vara omöjligt eller medför en oproportionell ansträngning. Om du vill ha information om dessa mottagare är du välkommen att kontakta Agronod.
 
 #### Rätt till begränsning av behandling (artikel 18 i GDPR)
 
