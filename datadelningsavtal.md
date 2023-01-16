@@ -95,7 +95,7 @@ nedan var för sig benämnda "**Part**" och gemensamt "**Parterna**".
 
 3.  Datadelande Part äger rätt att säga upp Avtalet till omedelbart upphörande i händelse av:
 
-        1. nya rättsliga krav eller myndighetsbeslut som innebär att Datadelande Part inte längre kan dela Lantbruksdata med Agronod; eller
+        1. nya rättsliga krav eller myndighetsbeslut som innebär att Datadelande Part inte längre kan dela Lantbruksdata med Agronod, eller
         2. att det framgår att Agronod, eller part som Agronod vidarelicensierat Lantbruksdata till, behandlat Lantbruksdata i strid med GDPR eller annan tillämplig dataskyddslagstiftning, i synnerhet reglerna om överföring av personuppgifter till tredje land.
 
 ## 13.Konsekvenser av avtalets upphörande
