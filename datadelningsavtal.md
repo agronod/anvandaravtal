@@ -5,7 +5,7 @@
 Detta avtal avseende delning av lantbruksdata ("**Avtalet**") har ingåtts mellan:
 
 1. Agronod AB, org.nr. 559270–6245, nedan kallat "**Agronod**", och
-2. [Bolagsnamn], org.nr [org.nr.], nedan kallat "**Datadelande Part**",
+2. ${orgName}, org.nr ${orgnr}, nedan kallat "**Datadelande Part**",
 
 nedan var för sig benämnda "**Part**" och gemensamt "**Parterna**".
 
