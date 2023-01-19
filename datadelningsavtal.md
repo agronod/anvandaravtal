@@ -55,7 +55,7 @@ e) säkerställa att ett fungerande avslut av Parternas relation sker vid Avtale
 - vidta alla tekniska och organisatoriska åtgärder som krävs för att upprätthålla en lämplig säkerhetsnivå för de personuppgifter som behandlas i enlighet med Avtalet; och
 - säkerställa att registrerade kan utöva alla sina tillämpliga rättigheter enligt GDPR.
 
-**7.3** Agronod ska bistå Datadelande Part med fullgörande av Datadelande Parts skyldigheter avseende tillhandahållande av information och insamling av samtycke till den personuppgiftsbehandling som består i att Datadelande Part lämnar ut personuppgifter som ingår i Lantbruksdata till Agronod (d.v.s. vid delning av Lantbruksdata enligt detta Avtal) enligt Bilaga 1 (Personuppgiftsbiträdesavtal).  
+**7.3** Agronod ska bistå Datadelande Part med fullgörande av Datadelande Parts skyldigheter avseende tillhandahållande av information och insamling av samtycke till den personuppgiftsbehandling som består i att Datadelande Part lämnar ut personuppgifter som ingår i Lantbruksdata till Agronod (d.v.s. vid delning av Lantbruksdata enligt detta Avtal) enligt Bilaga 1 (Personuppgiftsbiträdesavtal).
 
 **8. Säkerhet**
 
@@ -66,6 +66,7 @@ e) säkerställa att ett fungerande avslut av Parternas relation sker vid Avtale
 **8.3** Om Agronod råkar ut för en säkerhetsincident som kan innebära oavsiktlig eller olaglig förstöring, förlust eller ändring eller till obehörigt röjande av eller obehörig åtkomst till Lantbruksdata (oavsett om den utgör personuppgifter eller inte) som behandlas av Agronod enligt Avtalet ska den Datadelande Parten kostnadsfritt, med eventuella begränsningar som följer av GDPR:
 a) omedelbart lämna tillgänglig och relevant information till den andra Parten om vad som har hänt; och
 b) där så anses lämpligt av den drabbade Parten utan att det utgör en säkerhetsrisk, ge den andra Parten möjlighet att göra relevanta justeringar i rapporter om incidenten som lämnas till relevanta myndigheter.
+
 **8.4** Parterna ska löpande informera varandra om omständigheter som kan ha betydelse för säkerheten och skydd av Lantbruksdata inom ramen för Avtalet.
 
 **9. Sekretess**
@@ -100,9 +101,11 @@ Parts åtagande enligt punkt 9.1 gäller från Avtalets undertecknade och gälle
 a) den andra Parten begår ett väsentligt avtalsbrott, där rättelse inte är möjlig;
 b) den andra Parten begår ett väsentligt avtalsbrott och underlåter att vidta rättelse (i sådana fall då avtalsbrottet går att rätta) inom femton (15) dagar från det att den felande Parten mottagit skriftligt påpekande av avtalsbrottet med uppmaning att vidta rättelse; eller
 c) den andra Parten ställer in betalningarna, träder i likvidation, inleder ackordsförhandlingar, själv inger ansökan om eller blir föremål för beslut om inledande av företagsrekonstruktion, försätts i konkurs eller annars skäligen kan antas vara på obestånd.
+
 **12.3** Datadelande Part äger rätt att säga upp Avtalet till omedelbart upphörande i händelse av:
 a) nya rättsliga krav eller myndighetsbeslut som innebär att Datadelande Part inte längre kan dela Lantbruksdata med Agronod; eller
 b) att det framgår att Agronod, eller part som Agronod vidarelicensierat Lantbruksdata till, behandlat Lantbruksdata i strid med GDPR eller annan tillämplig dataskyddslagstiftning, i synnerhet reglerna om överföring av personuppgifter till tredje land.
+
 **13. Konsekvenser av avtalets upphörande**
 
 **13.1** I händelse av Avtalets upphörande upphör omedelbart Datadelande Parts skyldighet att fortsätta dela Lantbruksdata med Agronod enligt bestämmelserna i Avtalet. Agronod har dock rätt att utan begränsning i tiden fortsätta använda Lantbruksdata som redan delats med Agronod enligt Avtalet, i den mån inte annat skriftligen avtalats mellan Parterna eller sådan användning strider mot GDPR eller annan tillämplig dataskyddslagstiftning.
@@ -114,6 +117,7 @@ b) att det framgår att Agronod, eller part som Agronod vidarelicensierat Lantbr
 **14.1** Part ansvarar inte under några omständigheter för den andra Partens uteblivna vinst, intäkt, besparing, goodwillskada, förlust på grund av driftavbrott, förlust av data, Parts eventuella ersättningsskyldighet gentemot tredje man eller annan indirekt skada eller följdskada av vad slag det vara må.
 
 **14.2** Parts sammanlagda och totala skadeståndsansvar under Avtalet, inklusive dess bilagor, avseende en eller flera händelser (oavsett om dessa har samband med varandra eller inte) ska inte i något fall överstiga tio (10) prisbasbelopp.
+
 **14.3** Punkt 14 är inte tillämplig i händelse av att Part agerat grovt vårdslöst eller med uppsåt.
 
 **15. Force Majeure**
@@ -132,6 +136,7 @@ Underlåtenhet att fullgöra skyldigheter enligt Avtalet får inte åberopas mot
 a) om avlämnat med bud: vid överlämnandet, eller
 b) om avsänt med rekommenderat brev: två dagar efter avlämnande för befordran, eller
 c) om avsänt med e-post till ovan angiven e-postadress: när mottagaren svarat på meddelandet.
+
 **16.5** Vid motstridighet mellan bestämmelser i andra överenskommelser mellan Parterna och Avtalet ska bestämmelserna i Avtalet äga företräde om annat inte skriftligen och uttryckligen framgår av andra bestämmelser. I händelse av motstridiga villkor mellan Avtalets huvuddokument och bilagorna ska Avtalets huvuddokument äga företräde om annat inte skriftligen och uttryckligen framgår.
 
 **16.6** Detta Avtal ersätter i sin helhet eventuella tidigare avtal som reglerar delningen av Lantbruksdata.
