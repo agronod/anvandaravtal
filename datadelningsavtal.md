@@ -2,7 +2,7 @@
 
 Detta avtal avseende delning av lantbruksdata (”Avtalet”) har ingåtts mellan:
 Agronod AB, org.nr. 559270–6245, nedan kallat ”Agronod”, och
-[Bolagsnamn], org.nr [org.nr.], nedan kallat ”Datadelande Part”,
+{{name}}, org.nr {{orgnr}}, nedan kallat ”Datadelande Part”,
 nedan var för sig benämnda ”Part” och gemensamt ”Parterna”.
 
 **2. Bakgrund**
@@ -130,7 +130,7 @@ Underlåtenhet att fullgöra skyldigheter enligt Avtalet får inte åberopas mot
 
 **16.2** Ändringar eller tillägg till Avtalet ska för att bli bindande upprättas skriftligen och undertecknas av båda Parter.
 
-**16.3** Uppsägning och andra meddelanden som ska eller får lämnas enligt Avtalet ska skickas skriftligen till Parts vid var tid hos svenska Bolagsverkets registrerade adress eller, för meddelanden till Agronod, till [e-postadress] samt för meddelanden till Datadelande Part, till [e-postadress].
+**16.3** Uppsägning och andra meddelanden som ska eller får lämnas enligt Avtalet ska skickas skriftligen till Parts vid var tid hos svenska Bolagsverkets registrerade adress eller, för meddelanden till Agronod, till [e-postadress] samt för meddelanden till Datadelande Part, till {{email}}.
 
 **16.4** Uppsägning eller andra meddelanden ska anses ha kommit mottagaren tillhanda
 a) om avlämnat med bud: vid överlämnandet, eller
