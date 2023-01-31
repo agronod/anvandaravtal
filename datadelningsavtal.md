@@ -1,3 +1,5 @@
+### Datadelnings- och Personuppgiftsbiträdesavtal
+
 **1. Parter**
 
 Detta avtal avseende delning av lantbruksdata (”Avtalet”) har ingåtts mellan:
@@ -13,7 +15,7 @@ nedan var för sig benämnda ”Part” och gemensamt ”Parterna”.
 
 **2.3** Agronod kommer även att sammanställa Lantbruksdata på aggregerad nivå utan att det går att urskilja den ursprungliga Lantbruksdata som delats av Datadelande Part (”Aggregerad Lantbruksdata”).
 
-**2.4** Datadelande Part och Agronod ingår därför detta Avtal för att Agronod, med hjälp av Lantbruksdata som tillhandahålls från Datadelande Part, utveckla Agronods dataplattform, andra tjänster och produkter och tillgängliggöra Lantbruksdata för andra aktörer.
+**2.4** Datadelande Part och Agronod ingår därför detta Avtal för att, med hjälp av Lantbruksdata som tillhandahålls från Datadelande Part, utveckla Agronods dataplattform, andra tjänster och produkter och tillgängliggöra Lantbruksdata för andra aktörer.
 
 **3. Licensupplåtelse**
 
@@ -34,6 +36,8 @@ nedan var för sig benämnda ”Part” och gemensamt ”Parterna”.
 **5.3** Till undvikande av missförstånd ska inget i Avtalet tolkas som att immateriella rättigheter eller rätten enligt lagen om företagshemligheter (om sådan finns) till Lantbruksdata överlåts från Datadelande Part till Agronod.
 
 **5.4** Datadelande Part garanterar att Datadelande Part har rätt att licensiera Lantbruksdata till Agronod enligt vad som framgår av avsnitt 3 och att inga begränsningar ställs upp i avtal eller på annat sätt mellan Datadelande Part och tredje part som begränsar eller hindrar Agronod från att använda Lantbruksdata i enlighet med syftet med detta Avtal.
+
+**5.5** {{avtalstillagImmateriellarattighter}}
 
 **6. Parternas skyldigheter**
 
@@ -152,3 +156,328 @@ c) om avsänt med e-post till ovan angiven e-postadress: när mottagaren svarat 
 **17.3** Skiljeförfarandets säte ska vara Stockholm. Språket för förfarandet ska vara svenska. Skiljeförfarandet och skiljedomen ska omfattas av sekretess.
 
 **17.4** Part åtar sig att iaktta sekretess avseende (a) beslut och domar i skiljeförfarandet, liksom (b) allt material som har tillkommit för och getts in i skiljeförfarandet och (c) alla övriga dokument ingivna av den andra parten i samband med skiljeförfarandet om dessa inte kan visas redan vara allmänt tillgängliga. Undantag från sekretess enligt det föregående gäller enbart (i) för skyldighet som må följa av tvingande lag, föreläggande från behörig domstol eller myndighet; (ii) för vad som skäligen må följa av parts legitima intresse av att skydda, fullgöra eller hävda legala rättigheter eller skyldigheter eller (iii) för att verkställa eller klandra skiljedom.
+
+## Bilaga 1 (Personuppgiftsbiträdesavtal)
+
+**1. Bakgrund etc.**
+
+**1.1** Denna bilaga utgör en integrerad del av det datadelningsavtal som parterna ingått avseende Datadelande Parts tillhandahållande av Lantbruksdata till Agronod (”Datadelningsavtalet”).
+
+**1.2** I detta Personuppgiftsbiträdesavtal anges rättigheter och skyldigheter för Datadelande Part (i denna bilaga, den ”personuppgiftsansvarige”) och Agronod (i denna bilaga, ”personuppgiftsbiträdet” vid behandling av personuppgifter på uppdrag av den personuppgiftsansvarige.
+
+**1.3** Personuppgiftsbiträdesavtalet har utformats för att säkerställa parternas uppfyllande av artikel 28.3 i Europaparlamentets och rådets förordning (EU) 2016/679 av den 27 april 2016 om skydd för fysiska personer med avseende på behandling av personuppgifter och om det fria flödet av sådana uppgifter och om upphävande av direktiv 95/46/EG (allmän dataskyddsförordning).
+
+**1.4** Den personuppgiftsansvarige instruerar personuppgiftsbiträdet och personuppgiftsbiträdet åtar sig att på uppdrag av den personuppgiftsansvarige behandla personuppgifter för att samla in samtycke (och hantera eventuella återkallelser) samt informera registrerade om personuppgiftsbehandling som den personuppgiftsansvarige ansvarar för på det sätt som beskrivs i Underbilaga 1 (“Uppgiften”).
+
+**1.5** Personuppgiftsbiträdesavtalet ska ha företräde framför liknande bestämmelser i andra avtal mellan parterna.
+
+**1.6** Personuppgiftsbiträdesavtalet och dess bilagor ska lagras både skriftligt och elektroniskt av båda parterna.
+
+**1.7** Personuppgiftsbiträdesavtalet undantar inte personuppgiftsbiträdet från skyldigheter som personuppgiftsbiträdet omfattas av enligt den allmänna dataskyddsförordningen eller annan lagstiftning.
+
+**2. Den personuppgiftsansvariges rättigheter och skyldigheter**
+
+**2.1** Den personuppgiftsansvarige är ansvarig för att säkerställa att behandlingen av personuppgifter utförs i enlighet med den allmänna dataskyddsförordningen (se artikel 24 i den allmänna dataskyddsförordningen), tillämpliga dataskyddsbestämmelser i EU eller medlemsstaten och Personuppgiftsbiträdesavtalet.
+
+**2.2** Den personuppgiftsansvarige har rätt och skyldighet att besluta om syften och medel för behandlingen av personuppgifter.
+
+**2.3** Den personuppgiftsansvarige är bland annat ansvarig för att den behandling av personuppgifter som personuppgiftsbiträden ombeds utföra har rättslig grund.
+
+**3. Personuppgiftsbiträdet ska följa instruktionerna**
+
+**3.1** Personuppgiftsbiträdet får enbart behandla personuppgifter enligt dokumenterade anvisningar från den personuppgiftsansvarige, såvida det inte är skyldigt att göra detta enligt unionens eller medlemsstatens lagstiftning som det omfattas av. Sådana anvisningar anges i Underbilaga 1. Efterföljande anvisningar kan också ges av den personuppgiftsansvarige under behandlingen av personuppgifterna, men sådana anvisningar ska alltid dokumenteras och lagras skriftligt samt elektroniskt i anslutning till Personuppgiftsbiträdesavtalet.
+**3.2** Personuppgiftsbiträdet ska omedelbart informera den personuppgiftsansvarige om dessa anvisningar enligt personuppgiftsbiträdets uppfattning inte följer den allmänna dataskyddsförordningen eller tillämpliga dataskyddsbestämmelser i EU eller medlemsstaten.
+
+**4. Sekretess**
+
+**4.1** Personuppgiftsbiträdet ska endast bevilja tillgång till de personuppgifter som behandlas på uppdrag av den personuppgiftsansvarige för personer som är underställda personuppgiftsbiträdet och har åtagit sig att bevara sekretessen, eller som omfattas av en lämplig lagstadgad och behovsenlig tystnadsplikt. Förteckningen över de personer som har beviljats tillgång ska granskas regelbundet. Med granskningen som grund kan sådan tillgång till personuppgifter återkallas om tillgången inte längre är nödvändig. Personuppgifterna är därefter inte längre tillgängliga för dessa personer.
+**4.2** Personuppgiftsbiträdet ska på begäran av den personuppgiftsansvarige kunna visa att berörda personer som är underställda personuppgiftsbiträdet iakttar ovannämnda sekretess.
+
+**5. Säkerhet vid behandling**
+
+**5.1** I artikel 32 i den allmänna dataskyddsförordningen anges att med beaktande av tidigare känd teknik, genomförandekostnader och behandlingens art, omfattning, sammanhang och ändamål samt risken, av varierande sannolikhets- och allvarlighetsgrad, för fysiska personers rättigheter och friheter ska den personuppgiftsansvarige och personuppgiftsbiträdet vidta lämpliga tekniska och organisatoriska åtgärder för att säkerställa en säkerhetsnivå som är lämplig i förhållande till risken.
+
+Den personuppgiftsansvarige ska utvärdera riskerna avseende fysiska personers rättigheter och friheter vid behandlingen och vidta åtgärder för att minska dessa risker.
+
+**5.2** Enligt artikel 32 i den allmänna dataskyddsförordningen ska personuppgiftsbiträdet även – fristående från den personuppgiftsansvarige – utvärdera riskerna för fysiska personers rättigheter och friheter vid behandlingen och vidta åtgärder för att minska dessa risker. Dessutom ska personuppgiftsbiträdet bistå den personuppgiftsansvarige i att säkerställa efterlevnad av den personuppgiftsansvariges skyldigheter enligt artikel 32 i den allmänna dataskyddsförordningen, genom att bland annat förse den personuppgiftsansvarige med information avseende tekniska och organisatoriska åtgärder som redan har genomförts av personuppgiftsbiträdet enligt artikel 32 i den allmänna dataskyddsförordningen, samt all övrig information som krävs för att den personuppgiftsansvarige ska kunna fullgöra sin skyldighet enligt artikel 32.
+
+**5.3** Om därefter – enligt den personuppgiftsansvariges bedömning – identifierade risker kräver att ytterligare åtgärder vidtas av personuppgiftsbiträdet än de som redan har vidtagits enligt artikel 32 i den allmänna dataskyddsförordningen, ska den personuppgiftsansvarige ange att dessa ytterligare åtgärder ska vidtas i Bilaga 1.
+**5.4** Om personuppgiftsbiträdet gör ändringar i de tekniska och organisatoriska åtgärder som vidtas, ska den personuppgiftsansvariges godkännande inhämtas i förväg. Ändringarna ska återspeglas genom att Bilaga 1 uppdateras.
+
+**6. Användning av underbiträden**
+
+**6.1** Personuppgiftsbiträdet ska uppfylla de krav som anges i artikel 28.2 och 28.4 i den allmänna dataskyddsförordningen om ett annat personuppgiftsbiträde anlitas (ett underbiträde).
+
+**6.2** Personuppgiftsbiträdet ges tillstånd från den personuppgiftsansvarige att anlita de underbiträden för att utföra de specifika behandlingar på uppdrag av den personuppgiftsansvarige som anges i Underbilaga 2. Personuppgiftsbiträdet ska informera den personuppgiftsansvarige om eventuella planer på att anlita ett nytt underbiträde eller att ersätta ett befintligt med skälig framförhållning. Personuppgiftsansvariges samtycke krävs innan sådant underbiträde anlitas av personuppgiftsbiträdet. En förteckning över underbiträden som anlitas av personuppgiftsbiträdet återfinns i Underbilaga 2, vilken ska uppdateras av personuppgiftsbiträdet vid godkända förändringar.
+
+**6.3** Om personuppgiftsbiträdet använder ett underbiträde för att utföra specifik behandling på uppdrag av den personuppgiftsansvarige, gäller samma skyldigheter rörande dataskydd som anges i Personuppgiftsbiträdesavtalet för underbiträden via avtal eller annan rättsakt enligt EU:s eller medlemsstatens rätt, i synnerhet avseende tillräckliga garantier att vidta lämpliga tekniska och organisatoriska åtgärder på ett sådant sätt att behandlingen uppfyller kraven i Personuppgiftsbiträdesavtalet och den allmänna dataskyddsförordningen.
+
+**6.4** Om underbiträdet inte fullgör sina dataskyddsskyldigheter är personuppgiftsbiträdet helt ansvarigt inför den personuppgiftsansvarige när det gäller fullgörandet av underbiträdets skyldigheter. Detta påverkar inte de registrerades rättigheter enligt den allmänna dataskyddsförordningen – särskilt de som föreskrivs i artiklarna 79 och 82 i den allmänna dataskyddsförordningen – gentemot den personuppgiftsansvarige och personuppgiftsbiträdet, inklusive underbiträdet.
+
+**7.** Överföring av uppgifter till tredjeland eller internationella organisationer
+
+**7.1** All överföring av personuppgifter till tredjeland eller internationella organisationer av personuppgiftsbiträdet får endast utföras enligt dokumenterade anvisningar från den personuppgiftsansvarige och ska alltid utföras i enlighet med kapitel V i den allmänna dataskyddsförordningen.
+
+**7.2** Om överföringar till tredjeland eller internationella organisationer, vilka personuppgiftsbiträdet inte har anvisats att utföra av den personuppgiftsansvarige, krävs enligt EU:s eller medlemsstatens lagstiftning som omfattar personuppgiftsbiträdet, ska personuppgiftsbiträdet informera den personuppgiftsansvarige om det rättsliga kravet innan behandlingen utförs, såvida inte sådan information är förbjuden i lagstiftningen av hänsyn till allmänintresset.
+
+**7.3** För det fall att överföringsmekanismerna enligt kapitel V i allmänna dataskyddsförordningen (oavsett vilken som används för överföringen) inte längre är tillräckliga för att uppfylla kraven i tillämplig dataskyddslagstiftning och de bestämmelser som styr behandling av personuppgifter enligt detta Personuppgiftsbiträdesavtal för att möjliggöra överföringen av personuppgifter till tredje land, ska personuppgiftsbiträdet använda alla rimliga ansträngningar för att implementera en alternativ överföringsmekanism som uppfyller kraven i tillämplig dataskyddslagstiftning och de bestämmelser som styr behandling av personuppgifter enligt detta Personuppgiftsbiträdesavtal – för att möjliggöra överföringen till tredje land – eller upphöra med sådan överföring. Om personuppgiftsbiträdet misslyckas med att introducera en sådan alternativ överföringsmekanism, får den personuppgiftsansvarige säga upp Personuppgiftsbiträdesavtalet med omedelbar effekt, eller med skälig tidsfrist som fastställs av den personuppgiftsansvarige.
+
+**8. Stöd till den personuppgiftsansvarige**
+
+**8.1** Med beaktande av behandlingens art ska personuppgiftsbiträdet bistå den personuppgiftsansvarige med lämpliga tekniska och organisatoriska åtgärder när det är möjligt, i syfte att fullgöra den personuppgiftsansvariges skyldigheter att besvara förfrågningar om utövande av den registrerades rättigheter enligt kapitel III i den allmänna dataskyddsförordningen.
+
+**8.2** Förutom personuppgiftsbiträdets skyldighet att bistå den personuppgiftsansvarige enligt avsnitt 5.2, ska personuppgiftsbiträdet dessutom, med beaktande av behandlingens art och den information som finns tillgänglig för personuppgiftsbiträdet, bistå den personuppgiftsansvarige för att säkerställa efterlevnad av:
+
+a) den personuppgiftsansvariges skyldighet att utan dröjsmål och vid behov, inte senare än 72 timmar efter upptäckten, meddela personuppgiftsincidenten till behörig tillsynsmyndighet, såvida det inte är osannolikt att personuppgiftsincidenten innebär någon risk för fysiska personers rättigheter och friheter;
+
+b) den personuppgiftsansvariges skyldighet att utan dröjsmål underrätta den registrerade om personuppgiftsincidenten, när personuppgiftsincidenten sannolikt leder till en hög risk för fysiska personers rättigheter och friheter;
+
+c) den personuppgiftsansvariges skyldighet att utföra en bedömning av den påverkan som de planerade behandlingsåtgärderna får på skyddet av personuppgifter (en konsekvensbedömning avseende dataskydd);
+
+d) den personuppgiftsansvariges skyldighet att samråda med den behöriga tillsynsmyndigheten, före behandlingen där en konsekvensbedömning avseende dataskydd visar att behandlingen skulle innebära en hög risk om inga åtgärder vidtas av den personuppgiftsansvarige för att minska risken.
+
+**9. Underrättelse om personuppgiftsincident**
+
+**9.1** Vid en personuppgiftsincident ska personuppgiftsbiträdet omedelbart anmäla personuppgiftsincidenten till den personuppgiftsansvarige efter att personuppgiftsbiträdet fått kännedom om personuppgiftsincidenten för att göra det möjligt för den personuppgiftsansvarige att fullgöra skyldigheten att underrätta behörig tillsynsmyndighet om personuppgiftsincidenten.
+
+**9.2** I enlighet med avsnitt 8.2 a) ska personuppgiftsbiträdet bistå den personuppgiftsansvarige med att underrätta behörig tillsynsmyndighet om personuppgiftsincidenten och bistå vid insamlingen av den information som anges nedan, vilket enligt artikel 33.3 i den allmänna dataskyddsförordningen ska anges i den personuppgiftsansvariges underrättelse till behörig tillsynsmyndighet:
+
+e) Personuppgifternas art, inbegripet om så är möjligt de kategorier och ungefärliga antal registrerade som berörs, samt de kategorier och ungefärliga antal personuppgiftsposter som berörs;
+
+f) De troliga konsekvenserna av personuppgiftsincidenten;
+
+g) De åtgärder som den personuppgiftsansvarige har vidtagit eller föreslagit för att hantera personuppgiftsincidenten, inbegripet när så är lämpligt åtgärder för att mildra dess potentiella skadliga effekter.
+
+**10. Radera och återlämna uppgifter**
+
+**10.1** Vid upphörandet av Uppgiften enligt avsnitt 14 ska personuppgiftsbiträdet vara skyldigt, utifrån vad den personuppgiftsansvarige väljer, radera eller återlämna alla personuppgifter till den personuppgiftsansvarige som behandlas för att utföra Uppgiften utan oskäligt dröjsmål och vilket fall inte senare än inom nittio (90) dagar radera befintliga kopior, såvida inte det enligt unionens eller medlemsstats lagstiftning krävs att personuppgifterna lagras. På den personuppgiftsansvariges begäran ska personuppgiftsbiträdet tillhandahålla en skriftlig redogörelse för de åtgärder som vidtagits avseende personuppgifter efter upphörande av Uppgiftens utförande.
+
+**11. Granskning och inspektion**
+
+**11.1** Personuppgiftsbiträdet ska för den personuppgiftsansvarige tillgängliggöra all information som krävs för att visa att de skyldigheter som anges i artikel 28 och i Personuppgiftsbiträdesavtalet efterlevs, samt underlätta och bidra till granskningar och inspektioner som utförs av den personuppgiftsansvarige eller annan granskare på uppdrag av den personuppgiftsansvarige.
+
+**11.2** Personuppgiftsbiträdet ska ha en skyldighet att ge de tillsynsmyndigheter som enligt tillämplig lagstiftning har tillgång till den personuppgiftsansvarige och personuppgiftsbiträdets lokaler, eller ombud som agerar på uppdrag av sådana tillsynsmyndigheter, tillgång till personuppgiftsbiträdets fysiska lokaler vid uppvisande av lämplig id-handling.
+
+**12. Ersättning**
+
+**12.1** Personuppgiftsbiträdet har inte rätt till någon särskild ersättning baserat på innehållet i detta Personuppgiftsbiträdesavtal.
+
+**13.** Tvist och tillämplig lag
+
+**13.1** Personuppgiftsbiträdesavtalet ska tolkas enligt svensk lag, utan hänsyn till dess regler om lagval. Alla tvister kopplade till detta Personuppgiftsbiträdesavtal ska slutligen avgöras i enlighet med Datadelningsavtalets bestämmelser om tvistelösning.
+
+**14.** Inledande och avslutande
+
+**14.1** Personuppgiftsbiträdesavtalet börjar gälla samtidigt som Datadelningsavtalet.
+
+**14.2** Båda parterna ska ha rätt att kräva att Personuppgiftsbiträdesavtalet omförhandlas om ändringar i lagen eller Personuppgiftsbiträdesavtalet ger anledning till en sådan omförhandling.
+
+**14.3** Personuppgiftsbiträdesavtalet ska gälla så länge det föreligger ett gällande Datadelningsavtal mellan parterna samt till dess att personuppgiftsbiträdet har fullgjort sina skyldigheter enligt avsnitt 10.
+
+#### Underbilaga 1
+
+**Instruktioner för personuppgiftsbehandling på uppdrag av den personuppgiftsansvarige**
+
+Personuppgiftsbiträdet ska följa instruktionerna som beskrivs nedan vid utförandet av Uppgiften.
+
+**Behandlingens art och ändamål**
+
+Art och ändamål för behandlingen som personuppgiftsbiträdet utför enligt detta Personuppgiftsbiträdesavtal är följande: insamling av samtycke och tillhandahållande av information från registrerade till att personuppgifter lämnas ut av den personuppgiftsansvarige till personuppgiftsbiträdet för fortsatt behandling av personuppgiftsbiträdet som självständigt personuppgiftsansvarig. Detta ska ske genom tillämpning av den samtyckestext och integritetspolicy som bifogas som Underbilaga 3. Personuppgiftsbiträdet ska på uppdrag av den personuppgiftsansvarige även hantera eventuella återkallelser av samtycke.
+
+**Behandlingens varaktighet**
+
+Behandlingens varaktighet enligt detta Personuppgiftsbiträdesavtal är: till dess att den personuppgiftsansvarige skriftligen meddelar personuppgiftsbiträdet annat.
+
+**Kategorier av registrerade**
+
+Följande kategorier av registrerade vars personuppgifter kan komma att behandlas av personuppgiftsbiträde enligt detta Personuppgiftsbiträdesavtal är aktuella: personer som bedriver lantbruksverksamhet.
+
+**Typer av personuppgifter**
+
+Följande typer av personuppgifter som omfattas av personuppgiftsbiträdets behandling enligt detta Personuppgiftsbiträdesavtal är aktuella: uppgift om att den registrerade har lämnat sitt samtycke på det sätt som framgår av Underbilaga 3.
+
+**Säkerhetsåtgärder**
+
+Personuppgiftsbiträdet ska följa de säkerhetskrav som framgår av Bilaga 2 (Informationssäkerhetskrav) till Datadelningsavtalet.
+
+#### Underbilaga 2
+
+**Underbiträden**
+
+Det här en fullständig lista på alla underbiträden som har anlitats av personuppgiftsbiträdet som underbiträden. Listan ska uppdateras vid behov för att återspegla alla ändringar avseende underbiträden
+| Bolagsnamn, organisationsnummer, adress och etableringsland | Beskrivning av behandlingsaktivitet | Länder där personuppgifter kommer att behandlas | Mekanismer för laglig överföring till personuppgiftsbiträde (standardavtals-klausuler, bindande företags-bestämmelser) – om personuppgifter kommer att behandlas utanför EU/EES |
+|--------------------------------------------------------------------------------|---------------------------------------------------------------------|-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Binero AB, org. nr. 556575-2028, Gamla Brogatan 26, 111 20 STOCKHOLM, Sverige. | Tillhandahåller IT-infrastruktur som tjänst där uppgifterna lagras. | Sverige. | Ej lämpligt. |
+
+#### Underbilaga 3
+
+Personuppgiftsbiträdet ska utföra Uppgiften genom ett webbgränssnitt där lantbrukaren erbjuds att lämna frivilligt samtycke till och bekräfta att lantbrukaren har tagit del av information om den Personuppgiftsansvariges personuppgiftsbehandling som omfattas av detta Personuppgiftsbiträdesavtal. Detta sker genom ett webbflöde där lantbrukaren först får möjlighet att välja vilka kategorier av data om lantbrukarens verksamhet som ska lämnas ut från den Personuppgiftsansvarige till Personuppgiftsbiträdet, följt av att lantbrukaren erbjuds att kryssa i en ej förkryssad ruta bredvid nedan text:
+
+”Jag samtycker till att [namn på de personuppgiftsansvariga som den registrerade vill inhämta uppgifter ifrån] lämnar ut valda typer av uppgifter om min verksamhet, vilket innefattar personuppgifter om mig, till Agronod AB samt bekräftar att jag har läst den fullständiga informationen om personuppgiftsbehandlingen i Integritetspolicyn för Datakällor.”
+
+Om lantbrukaren väljer att klicka på ”Integritetspolicy för Datakällor” ska lantbrukaren kunna ta del av en informationstext med bilagt innehåll.
+
+### Integritetspolicy för datakällor
+
+**1. Beskrivning**
+När du väljer att ansluta datakällor i Agrosfär kommer uppgifter om din näringsverksamhet men även uppgifter som skulle kunna härledas till dig som individ (personuppgifter) att lämnas ut till Agronod AB (”Agronod”). Dataskyddsförordningen (GDPR) ger dig rätt att erhålla transparent information om denna personuppgiftsbehandling från de organisationer som tillhandahåller uppgifterna till Agronod. Syftet med detta dokument är att tillhandahålla sådan information.
+Avsnitt 2 innehåller information om de uppgifter om dig och din näringsverksamhet som, med ditt samtycke, lämnas ut till Agronod från av dig valda organisationer.
+Avsnitt 3 innehåller information om dina rättigheter med anledning av denna personuppgiftsbehandling och hur du kan utöva dem.
+Du kan läsa om Agronods användning av uppgifterna efter att de har lämnats ut till Agronod i Integritetspolicyn för Agronod.
+
+**2. Beskrivning av behandling av personuppgifter som består i att valda leverantörer av data lämnar ut uppgifter till Agronod**
+
+**2.1 Information från Lantmännen om du väljer att ansluta till och inhämta data kopplat till din verksamhet från Lantmännen**
+
+Tabellen nedan beskriver den personuppgiftsbehandling som består i att Lantmännen ek för, org. nr. 769605-2856 (”Lantmännen”) lämnar ut personuppgifter till Agronod. Det blir endast aktuellt om du väljer att ansluta till och inhämta data kopplat till din verksamhet från Lantmännen och förutsätter ditt samtycke. Vänligen läs även avsnitt 3 nedan för att ta del av viktig information om dina rättigheter med anledning av denna personuppgiftsbehandling.
+
+| Beskrivning av Lantmännens personuppgiftsbehandling | Kategorier av personuppgifter som omfattas av personuppgiftsbehandlingen och källor till inhämtning av uppgifterna                                                                                                                                             | Ändamål med personuppgiftsbehandlingen                                               | Ansvarig för personuppgiftsbehandlingen (personuppgiftsansvarig)                                                                                                                                                                                                         |
+| --------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Utlämnande av personuppgifter till Agronod.         | Säljordrar som innehåller information om dina köp från Lantmännen av följande typer av produkter: foder, utsäde, gödsel, bekämpningsmedel och förpackningsmaterial. Dessa uppgifter genereras automatiskt i Lantmännens system när du handlar från Lantmännen. | För att Agronod ska kunna göra en klimatberäkning avseende din lantbruksverksamhet.. | Lantmännen är personuppgiftsansvarig för den personuppgiftsbehandling som består i att uppgifterna lämnas ut från sina system till Agronod. Agronod ansvarar dock för den fortsatta behandlingen av personuppgifterna, vilken beskrivs i Integritetspolicyn för Agronod. |
+
+Laglig grund för Lantmännens utlämnande av personuppgifter till Agronod: Den lagliga grunden enligt GDPR är ditt samtycke (artikel 6.1 a i GDPR). Det betyder att uppgifterna inte kommer lämnas ut till Agronod om du inte lämnat ditt samtycke.
+Kategorier av mottagare: Personuppgifterna kommer att lämnas ut av Lantmännen till Agronod som därefter behandlar personuppgifterna i egenskap av personuppgiftsansvarig. Agronods behandling av personuppgifterna och vilka Agronod lämnar ut uppgifterna till beskrivs i den separata Integritetspolicyn för Agronod.
+Geografisk placering för Lantmännens personuppgiftsbehandling: Sverige. Information om var Agronod behandlar uppgifterna efter att de har lämnats ut finns i Integritetspolicyn för Agronod.
+
+**2.2 Information om du väljer att ansluta till och inhämta data kopplat till din verksamhet från Växa**
+
+Tabellen nedan beskriver den personuppgiftsbehandling som består i att Växa Sverige Ekonomisk förening, org. nr. 769621-2344 (”Växa”) lämnar ut personuppgifter till Agronod. Det blir endast aktuellt om du väljer att ansluta till och inhämta data kopplat till din verksamhet från Växa och förutsätter ditt samtycke. Vänligen läs även avsnitt 3 nedan för att ta del av viktig information om dina rättigheter med anledning av denna personuppgiftsbehandling.
+
+| Beskrivning av Växas personuppgiftsbehandling | Kategorier av personuppgifter som omfattas av personuppgiftsbehandlingen och källor till inhämtning av uppgifterna                                                                                                                                  | Ändamål med personuppgiftsbehandlingen                                                                                                                                                                     | Ansvarig för personuppgiftsbehandlingen (personuppgiftsansvarig)                                                                                                                                                                                                   |
+| --------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Utlämnande av personuppgifter till Agronod.   | Information om dina boskapsdjur samt händelser relaterade till boskapsdjuret: \* Identifierande information om boskapsdjuret Ankomst, Avgång, Kalvning, Insemination, Mjölkning, Mjölkmätning, Vägning. Dessa uppgifter skapas i Växas egna system. | För att Agronod ska kunna göra en klimatberäkning avseende din lantbruksverksamhet och framställa aggregerad information på anonym basis utan att uppgifter går att hänföra till dig eller din verksamhet. | Växa är personuppgiftsansvarig för den personuppgiftsbehandling som består i att uppgifterna lämnas ut från sina system till Agronod. Agronod ansvarar dock för den fortsatta behandlingen av personuppgifterna, vilken beskrivs i Integritetspolicyn för Agronod. |
+
+Laglig grund för Växas utlämnande av personuppgifter till Agronod: Den lagliga grunden enligt GDPR är ditt samtycke (artikel 6.1 a i GDPR). Det betyder att uppgifterna inte kommer lämnas ut till Agronod om du inte lämnat ditt samtycke.
+
+Kategorier av mottagare: Personuppgifterna kommer att lämnas ut av Växa till Agronod som därefter behandlar personuppgifterna i egenskap av personuppgiftsansvarig. Agronods behandling av personuppgifterna och vilka Agronod lämnar ut uppgifterna till beskrivs i den separata Integritetspolicyn för Agronod.
+Geografisk placering för Växas personuppgiftsbehandling: Sverige. Information om var Agronod behandlar uppgifterna efter att de har lämnats ut finns i Integritetspolicyn för Agronod.
+
+**2.3 Information om du väljer att ansluta till och inhämta data kopplat till din verksamhet från Dataväxt**
+
+Tabellen nedan beskriver den personuppgiftsbehandling som består i att Dataväxt AB, org. nr. 556733-2969 (”Dataväxt”) lämnar ut personuppgifter till Agronod AB (”Agronod”). Det blir endast aktuellt om du väljer att ansluta till och inhämta data kopplat till din verksamhet från Dataväxt och förutsätter ditt samtycke. Vänligen läs även avsnitt 3 nedan för att ta del av viktig information om dina rättigheter med anledning av denna personuppgiftsbehandling.
+
+| Beskrivning av personuppgiftsbehandlingen   | Kategorier av personuppgifter som omfattas av personuppgiftsbehandlingen och källor till inhämtning av uppgifterna                                                      | Ändamål med personuppgiftsbehandlingen                                                                                                                                                                     | Ansvarig för personuppgiftsbehandlingen (personuppgiftsansvarig)                                                                                                                                                                                                       |
+| ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Utlämnande av personuppgifter till Agronod. | Information om en lantbrukares jordbruksmark avseende: Utsäde, Gödsel, Växtskydd, Skörd, Nedlagd tid på arbete med ovan. Dessa uppgifter skapas i Dataväxt egna system. | För att Agronod ska kunna göra en klimatberäkning avseende din lantbruksverksamhet och framställa aggregerad information på anonym basis utan att uppgifter går att hänföra till dig eller din verksamhet. | Dataväxt är personuppgiftsansvarig för den personuppgiftsbehandling som består i att uppgifterna lämnas ut från sina system till Agronod. Agronod ansvarar dock för den fortsatta behandlingen av personuppgifterna, vilken beskrivs i Integritetspolicyn för Agronod. |
+
+Laglig grund för Dataväxts utlämnande av personuppgifter till Agronod: Den lagliga grunden enligt GDPR är ditt samtycke (artikel 6.1 a i GDPR). Det betyder att uppgifterna inte kommer lämnas ut till Agronod om du inte lämnat ditt samtycke.
+
+Kategorier av mottagare: Personuppgifterna kommer att lämnas ut av Dataväxt till Agronod som därefter behandlar personuppgifterna i egenskap av personuppgiftsansvarig. Agronods behandling av personuppgifterna och vilka Agronod lämnar ut uppgifterna till beskrivs i den separata Integritetspolicyn för Agronod.
+
+Geografisk placering för Växas personuppgiftsbehandling: Sverige. Information om var Agronod behandlar uppgifterna efter att de har lämnats ut finns i Integritetspolicyn för Agronod.
+
+**3. Beskrivning av dina rättigheter med anledning behandlingen av dina personuppgifter**
+
+Du har rättigheter med anledning av den behandling av dina personuppgifter som beskrivs ovan. Rättigheterna gäller i förhållande till respektive organisation som har lämnat ut personuppgifterna till Agronod (d.v.s. den personuppgiftsansvarige). Dina rättigheter med anledning av Agronods behandling av personuppgifterna efter att de har lämnats ut till Agronod beskrivs i Integritetspolicyn för Agronod. Du finner kontaktuppgifter till respektive organisation nedan. För att återkalla ett samtycke går det även bra att kontakta Agronod.
+
+Kontaktuppgifter till Lantmännen: dataskyddsombud@lantmannen.com
+Kontaktuppgifter till Växa: info@vxa.se
+Kontaktuppgifter till Dataväxt: info@dataväxt.se
+Kontaktuppgifter till Agronod: dataskydd@agronod.com
+
+**Rätt att inge klagomål (artikel 77 i GDPR)**
+Du har rätt att lämna klagomål till en behörig tillsynsmyndighet. Behörig tillsynsmyndighet i Sverige är Integritetsskyddsmyndigheten (www.imy.se).
+I detalj. Din rätt att klaga gäller i det fall det inte påverkar något annat administrativt prövningsförfarande eller rättsmedel. Ett sådant klagomål lämnas med fördel till myndigheten i den medlemsstat inom EU/EES där du har din vanliga hemvist, där du arbetar eller där en överträdelse av gällande lagar och regler för dataskydd påstås ha förekommit.
+
+**Rätt att återkalla samtycke**
+Du har rätt att när som helst återkalla ditt samtycke som du har lämnat till behandling av dina personuppgifter. Ditt återkallande av samtycke påverkar inte lagligheten av personuppgiftsbehandling innan återkallelsen sker. Om du återkallar ditt samtycke kommer inga ytterligare uppgifter att lämnas ut till Agronod och Agronod kommer även att radera redan utlämnade personuppgifter. Du kan återkalla ditt samtycke genom att kontakta Agronod.
+Rätt att göra invändningar (artikel 21 i GDPR)
+Du har alltid rätt att när som helst göra invändningar mot behandling av personuppgifter avseende dig som grundar sig på en intresseavvägning.
+
+I detalj. Om du invänder får den personuppgiftsansvarige inte längre behandla dina personuppgifter, undantaget om den personuppgiftsansvarige kan visa tvingande berättigade skäl för behandlingen som väger tyngre än dina intressen, rättigheter och friheter eller om det sker för fastställande, utövande eller försvar av rättsliga anspråk.
+
+**Rätt till tillgång (artikel 15 i GDPR)**
+Du har rätt att få en bekräftelse på om personuppgifter som rör dig behandlas av den personuppgiftsansvarige, en kopia av de personuppgifter som är under behandling och information om behandlingen.
+
+**I detalj.** Den information du i sådana fall får tillgång till är:
+
+- ändamålen med behandlingen;
+- de kategorier av personuppgifter som behandlingen gäller;
+- de mottagare eller kategorier av mottagare till vilka personuppgifterna har lämnats eller ska lämnas ut, särskilt mottagare i tredjeländer eller internationella organisationer;
+- om möjligt den förutsedda period under vilken personuppgifterna kommer att lagras eller, om detta inte är möjligt, de kriterier som används för att fastställa denna period;
+- förekomsten av rätten att av den personuppgiftsansvarige begära rättelse eller radering av personuppgifterna eller begränsningar av behandling av personuppgifter som rör dig eller att invända mot sådan behandling;
+- rätten att inge klagomål till en tillsynsmyndighet;
+- förekomsten av automatiserat beslutsfattande, inbegripet profilering enligt artiklarna 22.1 och 22.4 i GDPR; och
+- om personuppgifterna överförs till ett tredjeland eller till en internationell organisation, har du även rätt till information om de lämpliga skyddsåtgärder som i enlighet med artikel 46 i GDPR har vidtagits vid överföringen.
+
+Du har rätt att få en kopia av de personuppgifter som behandlas av den personuppgiftsansvarige. För eventuella ytterligare kopior som du begär får den personuppgiftsansvarige ta ut en rimlig avgift på grundval av dess administrativa kostnader. Om du har begärt informationen via elektronisk form kommer du att få informationen i ett elektroniskt format som är allmänt använt, om du inte begär något annat.
+
+**Rätt till rättelse (artikel 16 i GDPR)**
+
+Du har rätt att utan onödigt dröjsmål få felaktiga personuppgifter som rör dig rättade. Med beaktande av ändamålet har du även rätt att komplettera ofullständiga personuppgifter, bland annat genom att tillhandahålla ett kompletterande utlåtande.
+
+I detalj. Den personuppgiftsansvarige kommer underrätta varje mottagare till vilka personuppgifterna har lämnats ut om eventuell rättelse som skett, om inte detta visar sig vara omöjligt eller medför en oproportionell ansträngning.
+
+**Rätt till radering (rätten att bli bortglömd) (artikel 17 i GDPR)**
+
+Du har rätt att utan onödigt dröjsmål få dina personuppgifter raderade av den personuppgiftsansvarige.
+**I detalj.** Den personuppgiftsansvarige har en skyldighet att utan onödigt dröjsmål radera dina personuppgifter om något av följande gäller:
+
+- personuppgifterna inte längre är nödvändiga för de ändamål som de samlats in eller behandlats för;
+- du invänder mot behandlingen enligt artikel 21.1 i GDPR och det saknas berättigade skäl för behandlingen som väger tyngre, eller du invänder mot behandlingen i enlighet med artikel 21.2 i GDPR;
+- personuppgifterna har behandlats på olagligt sätt; eller
+- personuppgifterna måste raderas för att uppfylla en rättslig förpliktelse i unionsrätten eller i medlemsstaternas nationella rätt som den personuppgiftsansvarige omfattas av.
+
+Notera att den personuppgiftsansvariges skyldighet att radera personuppgifter inte gäller i den utsträckning som behandlingen är nödvändig av följande skäl:
+
+- för att utöva rätten till yttrande- och informationsfrihet;
+- för att uppfylla en rättslig förpliktelse som kräver behandling enligt unionsrätten eller enligt en medlemsstats nationella rätt som den personuppgiftsansvarige omfattas av eller för att utföra en uppgift av allmänt intresse eller som är ett led i myndighetsutövning som utförs av den personuppgiftsansvarige;
+- för arkivändamål av allmänt intresse, vetenskapliga eller historiska forskningsändamål eller statistiska ändamål enligt artikel 89.1 i GDPR, i den utsträckning som din rätt till radering sannolikt omöjliggör eller avsevärt försvårar uppnåendet av syftet med den behandlingen; eller
+- för att kunna fastställa, göra gällande eller försvara rättsliga anspråk.
+
+Den personuppgiftsansvarige kommer underrätta varje mottagare till vilka personuppgifterna har lämnats ut om eventuell radering som skett enligt ovan, om inte detta visar sig vara omöjligt eller medför en oproportionell ansträngning.
+
+**Rätt till begränsning av behandling (artikel 18 i GDPR)**
+
+Du har rätt att begära att behandlingen av dina personuppgifter begränsas.
+**I detalj.** Din rätt gäller om:
+
+- du bestrider uppgifternas riktighet (dock endast under en tid som ger den personuppgiftsansvarige möjlighet att kontrollera detta);
+- behandlingen är olaglig och du motsätter dig att personuppgifterna raderas samt istället begär en begränsning av uppgifternas användning;
+- du behöver personuppgifterna för att göra gällande eller försvara rättsliga anspråk trots att den personuppgiftsansvarige inte längre behöver personuppgifterna för den personuppgiftsansvariges ändamål med behandlingen; eller
+- du har invänt mot behandlingen i enlighet med artikel 21.1 i GDPR och den personuppgiftsansvarige inte har utfört en kontroll av om den personuppgiftsansvariges berättigade intresse att behandla dina personuppgifter väger tyngre än ditt berättigade skäl av att behandlingen av dina personuppgifter begränsas.
+
+Om behandlingen begränsas får de aktuella personuppgifterna, med undantag för lagring, endast behandlas med ditt samtycke eller för att fastställa, göra gällande eller försvara rättsliga anspråk eller för att skydda någon annan fysisk eller juridisk persons rättigheter eller för skäl som rör ett viktigt allmänintresse för unionen eller för en medlemsstat. Den personuppgiftsansvarige kommer att meddela dig innan begränsningen av behandlingen upphör.
+Den personuppgiftsansvarige kommer underrätta varje mottagare till vilka personuppgifterna har lämnats ut om eventuell begräsning av behandling som skett enligt ovan, om inte detta visar sig vara omöjligt eller medför en oproportionell ansträngning.
+
+**Rätt till dataportabilitet (artikel 20 i GDPR)**
+
+Du har rätt att få ut dina personuppgifter i ett strukturerat, allmänt använt och maskinläsbart format från den personuppgiftsansvarige. Du har även rätt att få dina personuppgifter överförda till en annan personuppgiftsansvarig när det är tekniskt möjligt (”dataportabilitet”).
+
+**I detalj.** Rätten till dataportabilitet gäller för personuppgifter som du har lämnat till den personuppgiftsansvarige i ett strukturerat, allmänt använt och maskinläsbart format om behandlingen baserar sig på den lagliga grunden fullgörande av avtal (artikel 6.1 b) i GDPR) och behandlingen sker automatiserat.
+Din rätt till dataportabilitet får inte påverka andras rättigheter och friheter på ett ogynnsamt sätt.
+
+### Bilaga 2 (Informationssäkerhetskrav)
+
+**1. Introduktion**
+
+Denna bilaga 2 (Informationssäkerhetskrav) utgör en bilaga till datadelningsavtalet mellan Datadelande Part och Agronod. Agronod åtar sig att efterleva kraven häri i förhållande till sin hantering av Lantbruksdata från Datadelande Part och de samtycken till behandling av personuppgifter som Agronod behandlar på uppdrag av Datadelande Part.
+
+**Informationssäkerhet**
+
+**2.1** Agronod, inklusive dess underleverantörer, ska eftersträva att upprätthålla en grundläggande nivå av informationssäkerhet i linje med internationellt erkända standarder, såsom ISO/IEC 27001 eller NIST Cybersecurity Framework. Syftet är att säkerställa att Agronod vid varje given tidpunkt upprätthåller en adekvat skyddsnivå för information och tillgångar, innefattande kundinformation, och att informationssäkerhetsrisker minimeras och hanteras. Agronod ska till exempel skydda Datadelande Parts information genom tillämpning av följande principer:
+
+- Konfidentialitet och sekretess – personer ska endast ha tillgång till information som de är behöriga till utifrån principen ”need to have/know".
+- Integritet och korrekthet – det ska finnas ett skydd mot obehöriga ändringar.
+- Tillgänglighet – informationen ska vara tillgänglig, i rätt omfattning, när den behövs av behöriga användare.
+- Spårbarhet – ändringar och tillgång till information loggas på en nivå som kan anses rimlig.
+
+**2.2** Agronod förbinder sig att kontinuerligt arbeta med informationssäkerhet på ett proaktivt sätt för att identifiera nya och förändrade risker och anpassa skyddsåtgärderna därefter. I de fall då Datadelande Part bör vidta åtgärder ska Agronod informera Datadelande Part om detta och i förekommande fall föreslå lämpliga åtgärder.
+
+**2.3** Agronods informationssäkerhetsprocesser och aktiviteter ska dokumenteras och anpassas för att säkerställa efterlevnad av tillämplig lag, t.ex. anmälningskravet avseende personuppgiftsincidenter GDPR.
+
+**2.4** Agronod ska genom tillämpning av lämplig åtkomstkontroll säkerställa separation av arbetsuppgifter mellan olika uppdrag och verksamheter för att skydda Datadelande Parts uppgifter från obehörigt röjande till tredje part.
+
+**2.5** Agronod ska vidta alla rimliga åtgärder för att säkerställa att information som överförs, lagras och behandlas inte görs tillgänglig för obehöriga personer.
+
+**2.6** Agronod ska på ett säkert sätt radera alla Datadelande Parts data som omfattas av Avtalet när en sådan raderingsskyldighet följer av det.
+
+**2.7** Agronod ska se till att det finns en onboarding- och offboardingprocess som stöder skyddet av Datadelande Parts information, vilket ska inkludera, men inte vara begränsat till, utbildning i informationssäkerhet, identitets- och åtkomsthantering och, i förekommande fall, andra åtgärder för att se till att Agronods personal uppfyller de relevanta konfidentialitets- och informationssäkerhetsåtagandena gentemot Datadelande Part.
+
+**3. Revision och rapportering**
+
+**3.1** Datadelande Part och av Datadelande Part utsedd revisor ska med en månads varsel få utföra revision av utrustning och system inom ramen för Agronods åtaganden enligt Avtalet.
+
+**3.2** Om Agronod utför oberoende säkerhetsgranskningar med hjälp av en extern part ska sådana granskningsrapporter på begäran av Datadelande Part tillhandahållas utan extra kostnad. Om rapporten innehåller konfidentiell information om andra datadelare eller kunder får sådana uppgifter raderas innan rapporten tillhandahålls Datadelande Part. Datadelande Part hantera rapporten som konfidentiell information i enlighet med Avtalets bestämmelser om det.
+
+**4.** {{avtalstillaggBilaga}}
