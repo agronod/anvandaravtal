@@ -186,6 +186,7 @@ c) om avsänt med e-post till ovan angiven e-postadress: när mottagaren svarat 
 **3. Personuppgiftsbiträdet ska följa instruktionerna**
 
 **3.1** Personuppgiftsbiträdet får enbart behandla personuppgifter enligt dokumenterade anvisningar från den personuppgiftsansvarige, såvida det inte är skyldigt att göra detta enligt unionens eller medlemsstatens lagstiftning som det omfattas av. Sådana anvisningar anges i Underbilaga 1. Efterföljande anvisningar kan också ges av den personuppgiftsansvarige under behandlingen av personuppgifterna, men sådana anvisningar ska alltid dokumenteras och lagras skriftligt samt elektroniskt i anslutning till Personuppgiftsbiträdesavtalet.
+
 **3.2** Personuppgiftsbiträdet ska omedelbart informera den personuppgiftsansvarige om dessa anvisningar enligt personuppgiftsbiträdets uppfattning inte följer den allmänna dataskyddsförordningen eller tillämpliga dataskyddsbestämmelser i EU eller medlemsstaten.
 
 **4. Sekretess**
