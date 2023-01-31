@@ -37,7 +37,7 @@ nedan var för sig benämnda ”Part” och gemensamt ”Parterna”.
 
 **5.4** Datadelande Part garanterar att Datadelande Part har rätt att licensiera Lantbruksdata till Agronod enligt vad som framgår av avsnitt 3 och att inga begränsningar ställs upp i avtal eller på annat sätt mellan Datadelande Part och tredje part som begränsar eller hindrar Agronod från att använda Lantbruksdata i enlighet med syftet med detta Avtal.
 
-**5.5** {{avtalstillagImmateriellarattighter}}
+{{avtalstillagImmateriellarattighter}}
 
 **6. Parternas skyldigheter**
 
@@ -202,6 +202,7 @@ Den personuppgiftsansvarige ska utvärdera riskerna avseende fysiska personers r
 **5.2** Enligt artikel 32 i den allmänna dataskyddsförordningen ska personuppgiftsbiträdet även – fristående från den personuppgiftsansvarige – utvärdera riskerna för fysiska personers rättigheter och friheter vid behandlingen och vidta åtgärder för att minska dessa risker. Dessutom ska personuppgiftsbiträdet bistå den personuppgiftsansvarige i att säkerställa efterlevnad av den personuppgiftsansvariges skyldigheter enligt artikel 32 i den allmänna dataskyddsförordningen, genom att bland annat förse den personuppgiftsansvarige med information avseende tekniska och organisatoriska åtgärder som redan har genomförts av personuppgiftsbiträdet enligt artikel 32 i den allmänna dataskyddsförordningen, samt all övrig information som krävs för att den personuppgiftsansvarige ska kunna fullgöra sin skyldighet enligt artikel 32.
 
 **5.3** Om därefter – enligt den personuppgiftsansvariges bedömning – identifierade risker kräver att ytterligare åtgärder vidtas av personuppgiftsbiträdet än de som redan har vidtagits enligt artikel 32 i den allmänna dataskyddsförordningen, ska den personuppgiftsansvarige ange att dessa ytterligare åtgärder ska vidtas i Bilaga 1.
+
 **5.4** Om personuppgiftsbiträdet gör ändringar i de tekniska och organisatoriska åtgärder som vidtas, ska den personuppgiftsansvariges godkännande inhämtas i förväg. Ändringarna ska återspeglas genom att Bilaga 1 uppdateras.
 
 **6. Användning av underbiträden**
@@ -305,9 +306,9 @@ Personuppgiftsbiträdet ska följa de säkerhetskrav som framgår av Bilaga 2 (I
 **Underbiträden**
 
 Det här en fullständig lista på alla underbiträden som har anlitats av personuppgiftsbiträdet som underbiträden. Listan ska uppdateras vid behov för att återspegla alla ändringar avseende underbiträden
-| Bolagsnamn, organisationsnummer, adress och etableringsland | Beskrivning av behandlingsaktivitet | Länder där personuppgifter kommer att behandlas | Mekanismer för laglig överföring till personuppgiftsbiträde (standardavtals-klausuler, bindande företags-bestämmelser) – om personuppgifter kommer att behandlas utanför EU/EES |
+| Bolagsnamn, organisationsnummer, adress och etableringsland                    | Beskrivning av behandlingsaktivitet                                 | Länder där personuppgifter kommer att behandlas | Mekanismer för laglig överföring till personuppgiftsbiträde (standardavtals-klausuler, bindande företags-bestämmelser) – om personuppgifter kommer att behandlas utanför EU/EES |
 |--------------------------------------------------------------------------------|---------------------------------------------------------------------|-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Binero AB, org. nr. 556575-2028, Gamla Brogatan 26, 111 20 STOCKHOLM, Sverige. | Tillhandahåller IT-infrastruktur som tjänst där uppgifterna lagras. | Sverige. | Ej lämpligt. |
+| Binero AB, org. nr. 556575-2028, Gamla Brogatan 26, 111 20 STOCKHOLM, Sverige. | Tillhandahåller IT-infrastruktur som tjänst där uppgifterna lagras. | Sverige.                                        | Ej lämpligt.                                                                                                                                                                    |
 
 #### Underbilaga 3
 
@@ -480,4 +481,4 @@ Denna bilaga 2 (Informationssäkerhetskrav) utgör en bilaga till datadelningsav
 
 **3.2** Om Agronod utför oberoende säkerhetsgranskningar med hjälp av en extern part ska sådana granskningsrapporter på begäran av Datadelande Part tillhandahållas utan extra kostnad. Om rapporten innehåller konfidentiell information om andra datadelare eller kunder får sådana uppgifter raderas innan rapporten tillhandahålls Datadelande Part. Datadelande Part hantera rapporten som konfidentiell information i enlighet med Avtalets bestämmelser om det.
 
-**4.** {{avtalstillaggBilaga}}
+{{avtalstillaggBilaga}}
