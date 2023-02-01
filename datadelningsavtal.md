@@ -23,13 +23,17 @@ nedan var för sig benämnda ”Part” och gemensamt ”Parterna”.
 
 **3.2** Agronods rätt att vidarelicensiera Lantbruksdata är villkorad av att Agronod har ingått ett licensavtal med licenstagaren som är minst lika restriktivt vad gäller licenstagarens användning av Lantbruksdata som detta Avtal. Licenstagaren ska inte heller ha rätt att vidarelicensiera Lantbruksdata. Kravet på licensavtal gäller inte, såvida inte annat avtalats, vid tillhandahållande av Lantbruksdata till den lantbruksverksamhet som uppgifterna härrör ifrån, vid tillhandahållande av rapporter (t.ex. klimatberäkningsrapporter från verktyget Agrosfär) eller andra typer av produkter som baseras på, men inte innehåller, Lantbruksdata och inte heller vid tillhandahållande av Aggregerad Lantbruksdata.
 
+**3.3** Agronod är skyldig att i Webbportalen (enligt definition nedan) tillhandahålla Datadelande Part information om vilka licenstagare som har tagit del av Lantbruksdata från Datadelande Part med undantag för Aggregerad Lantbruksdata.
+
+**3.4** Punkt 10 nedan innehåller bestämmelser om särskilda förbehåll och begränsningar för Agronods användning av Lantbruksdata.
+
 **4. Datadelande Parts tillhandahållande av Lantbruksdata**
 
-**4.1** Om inte annat särskilt avtalas, ska Datadelande Part på kontinuerlig och löpande basis förse Agronod med tillgång till de typer av Lantbruksdata som omfattas av enskilda lantbrukares samtycken, inhämtade i enlighet med punkt 7.3 och Bilaga 1 (Personuppgiftsbiträdesavtal).
+**4.1** Vilken Lantbruksdata som Datadelande Part vid var tid licensierar till och tillhandhåller Agronod enligt punkt 3.1 och de närmare formerna och frekvensen för delning (format för överföring av data, tekniska specifikationer m.m.) framgår av Parternas integrationskontrakt som tecknas med anledning av detta Avtal och kommer även vara föremål för den framtida kommersiella uppgörelsen enligt punkt 11.
 
 **5. Immateriella rättigheter**
 
-**5.1** Agronod innehar samtliga rättigheter, inklusive immateriella rättigheter, till alla de databaser, produkter, tjänster och allt annat material som Agronod utvecklar, jämte anpassningar och vidareutvecklingar därav, innefattande men inte begränsat till patent, upphovsrätt och närstående upphovsrättigheter, mönsterskydd, företagshemligheter och varumärken (”Agronods Rättigheter”), och inget i Avtalet ska tolkas som att ovan nämnda rättigheter, eller del därav, överlåts av Agronod till Datadelande Part.
+**5.1** Agronod innehar samtliga rättigheter, inklusive immateriella rättigheter, till alla de databaser, produkter, tjänster och allt annat material som Agronod utvecklar, jämte anpassningar och vidareutvecklingar därav, innefattande men inte begränsat till patent, upphovsrätt och närstående upphovsrättigheter, mönsterskydd, företagshemligheter och varumärken (”Agronods Rättigheter”), och inget i Avtalet ska tolkas som att ovan nämnda rättigheter, eller del därav, överlåts av Agronod till Datadelande Part. Datadelande Part kan komma att licensiera Lantbruksdata från Agronod enligt separat avtal.
 
 **5.2** Datadelande Part innehar samtliga rättigheter, inklusive immateriella rättigheter till de databaser, produkter, tjänster och allt annat material som Datadelande Part utvecklar och tillhandahåller, jämte anpassningar och vidareutvecklingar därav, innefattande men inte begränsat till patent, upphovsrätt och närstående upphovsrättigheter, mönsterskydd företagshemligheter och varumärken (”Datadelande Parts Rättigheter”), och inget i Avtalet ska tolkas som att ovan nämnda rättigheter, eller del därav, övergår till Agronod.
 
@@ -59,47 +63,47 @@ e) säkerställa att ett fungerande avslut av Parternas relation sker vid Avtale
 - vidta alla tekniska och organisatoriska åtgärder som krävs för att upprätthålla en lämplig säkerhetsnivå för de personuppgifter som behandlas i enlighet med Avtalet; och
 - säkerställa att registrerade kan utöva alla sina tillämpliga rättigheter enligt GDPR.
 
-**7.3** Agronod ska bistå Datadelande Part med fullgörande av Datadelande Parts skyldigheter avseende tillhandahållande av information och insamling av samtycke till den personuppgiftsbehandling som består i att Datadelande Part lämnar ut personuppgifter som ingår i Lantbruksdata till Agronod (d.v.s. vid delning av Lantbruksdata enligt detta Avtal) enligt Bilaga 1 (Personuppgiftsbiträdesavtal).
+**7.3** Agronod ska såsom personuppgiftsbiträde bistå Datadelande Part med fullgörande av Datadelande Parts skyldigheter avseende tillhandahållande av information och insamling av samtycke till den personuppgiftsbehandling som består i att Datadelande Part lämnar ut personuppgifter som ingår i Lantbruksdata till Agronod (d.v.s. vid delning av Lantbruksdata enligt detta Avtal) enligt Bilaga 1 (Personuppgiftsbiträdesavtal).
 
 **8. Säkerhet**
 
-**8.1** Båda Parter ska vidta lämpliga tekniska och organisatoriska åtgärder för att skydda Lantbruksdata från oavsiktlig eller olaglig förstöring, förlust eller ändring eller till obehörigt röjande av eller obehörig åtkomst till Lantbruksdata.
+**8.1** Båda Parter ska vidta lämpliga tekniska och organisatoriska åtgärder för att skydda Lantbruksdata från oavsiktlig eller olaglig förstöring, förlust eller ändring eller till obehörigt röjande av eller obehörig åtkomst till Lantbruksdata. Agronod åtar sig vidare att följa de säkerhetskrav som framgår av Bilaga 2 (Informationssäkerhetskrav).
 
-**8.2** Datadelande Part ska vidta lämpliga och rimliga tekniska åtgärder för att tillse att delad Lantbruksdata så långt det är möjligt är fri från säkerhetsrisker som virus eller på annat sätt kan skada eller inverka negativt på Agronods system när den delas med Agronod. Datadelande Part strävar efter att Lantbruksdata ska vara korrekt och aktuell för att kunna användas på bästa sätt men Datadelande Part tar inget ansvar för eventuella brister eller felaktigheter i Lantbruksdata. Agronod är medveten om att Agronod själv ansvarar fullt ut för sitt användande av Lantbruksdata. Datadelande Part ska dock tillse att den Lantbruksdata som delas med Agronod enligt Avtalet möter krav på datakvalitet som följer av god branschpraxis.
+**8.2** Datadelande Part ska vidta lämpliga och rimliga tekniska åtgärder för att tillse att delad Lantbruksdata så långt det är möjligt är fri från säkerhetsrisker som virus eller på annat sätt kan skada eller inverka negativt på Agronods system när den delas med Agronod. Datadelande Part strävar efter att Lantbruksdata ska vara korrekt och aktuell för att kunna användas på bästa sätt men Datadelande Part tar inget ansvar för eventuella brister eller felaktigheter i Lantbruksdata. Agronod är medveten om att Agronod själv ansvarar fullt ut för sitt användande av Lantbruksdata.
 
-**8.3** Om Agronod råkar ut för en säkerhetsincident som kan innebära oavsiktlig eller olaglig förstöring, förlust eller ändring eller till obehörigt röjande av eller obehörig åtkomst till Lantbruksdata (oavsett om den utgör personuppgifter eller inte) som behandlas av Agronod enligt Avtalet ska den Datadelande Parten kostnadsfritt, med eventuella begränsningar som följer av GDPR:
-a) omedelbart lämna tillgänglig och relevant information till den andra Parten om vad som har hänt; och
-b) där så anses lämpligt av den drabbade Parten utan att det utgör en säkerhetsrisk, ge den andra Parten möjlighet att göra relevanta justeringar i rapporter om incidenten som lämnas till relevanta myndigheter.
+**8.3** Om Agronod råkar ut för en säkerhetsincident som kan innebära oavsiktlig eller olaglig förstöring, förlust eller ändring eller till obehörigt röjande av eller obehörig åtkomst till Lantbruksdata (oavsett om den utgör personuppgifter eller inte) som behandlas av Agronod enligt Avtalet ska Agronod kostnadsfritt, med eventuella begränsningar som följer av GDPR:
+a) omedelbart lämna tillgänglig och relevant information till den Datadelande Parten om vad som har hänt; och
+b) där så anses lämpligt av Agronod utan att det utgör en säkerhetsrisk, ge den Datadelande Parten möjlighet att göra relevanta justeringar i rapporter om incidenten som lämnas till relevanta myndigheter.
 
 **8.4** Parterna ska löpande informera varandra om omständigheter som kan ha betydelse för säkerheten och skydd av Lantbruksdata inom ramen för Avtalet.
 
 **9. Sekretess**
 
-**9.1** All muntlig, skriftlig eller på annat sätt upprättad dokumentation som hänför sig till, beskriver eller redovisar Agronods Rättigheter, Datadelande Parts Rättigheter, Lantbruksdata eller därtill relaterade immateriella rättigheter och know-how, samt varje annan upplysning, information eller dokumentation, oberoende av dess format som av Part uttryckligen angivits vara eller på annat sätt kan bedömas vara av företagsintern natur ska anses utgöra konfidentiell information (”Konfidentiell Information”). Parterna förbinder sig att iakttaga sekretess avseende Konfidentiell Information som Part får del av under avtalstiden och endast hantera sådan information för att uppfylla Parts skyldigheter och utöva Parts rättigheter enligt Avtalet. Bestämmelserna om sekretess i detta avsnitt 9.1 ska inte begränsa Agronods rätt att dela Lantbruksdata i enlighet med Avtalet, om inte särskilt förbehåll gäller enligt vad som framgår av avsnitt 10 nedan. Vidare ska Part inte vara förhindrad att informera tredje man om det faktum att detta Avtal och Parternas samarbete existerar och inte heller att Datadelande
+**9.1** All muntlig, skriftlig eller på annat sätt upprättad dokumentation som hänför sig till, beskriver eller redovisar Agronods Rättigheter, Datadelande Parts Rättigheter, Lantbruksdata eller därtill relaterade immateriella rättigheter och know-how, samt varje annan upplysning, information eller dokumentation, oberoende av dess format som av Part uttryckligen angivits vara eller på annat sätt kan bedömas vara av företagsintern natur ska anses utgöra konfidentiell information (”Konfidentiell Information”). Parterna förbinder sig att iakttaga sekretess avseende Konfidentiell Information som Part får del av under avtalstiden och endast hantera sådan information för att uppfylla Parts skyldigheter och utöva Parts rättigheter enligt Avtalet. Bestämmelserna om sekretess i detta avsnitt 9.1 ska inte begränsa Agronods rätt att dela Lantbruksdata i enlighet med Avtalet, om inte särskilt förbehåll gäller enligt vad som framgår av avsnitt 10 nedan. Vidare ska Part inte vara förhindrad att informera tredje man om det faktum att detta Avtal och Parternas samarbete existerar och inte heller att Datadelande Part delar Lantbruksdata med Agronod.
 
-**9.2** Part delar Lantbruksdata med Agronod.
-
-Parts åtagande enligt punkt 9.1 gäller från Avtalets undertecknade och gäller under dess giltighetstid och för en tid av tre (3) år därefter.
+**9.2** Parts åtagande enligt punkt 9.1 gäller från Avtalets undertecknade och gäller under dess giltighetstid och för en tid av tre (3) år därefter.
 
 **10. Förbehåll för användning av Lantbruksdata**
 
-**10.1** Parterna kan med hänsyn till dess särskilt konfidentiella natur komma överens om att viss Lantbruksdata som Datadelande Part delar med Agronod inte får röjas till Datadelande Parts konkurrenter eller att den ska omfattas av andra typer av begränsningar. Sådana begränsningar avtalas genom Datadelande Parts inställningar för datadelning i den webbportal som Agronod ska tillhandahålla för detta ändamål (”Webbportalen”). Datadelande Part åtar sig att säkerställa att sådana begränsningar är förenliga med EU- och svensk konkurrenslagstiftning.
+**10.1** Parterna kan med hänsyn till dess särskilt konfidentiella natur komma överens om att viss Lantbruksdata som Datadelande Part delar med Agronod inte får röjas till Datadelande Parts konkurrenter eller att den ska omfattas av andra typer av begränsningar (t.ex. vad gäller möjligheten att framställa Aggregerad Lantbruksdata). Sådana begränsningar avtalas genom Datadelande Parts inställningar för datadelning i den webbportal som Agronod ska tillhandahålla för detta ändamål (”Webbportalen”). Datadelande Part åtar sig att säkerställa att sådana begränsningar är förenliga med EU- och svensk konkurrenslagstiftning.
 
 **10.2** För tydlighets skull noteras att Agronod inte utan Datadelande Parts skriftliga medgivande får justera Datadelande Parts inställningar för datadelning i Webbportalen i mer tillåtande riktning.
 
 **10.3** Agronod åtar sig att implementera och upprätthålla rimliga tekniska och organisatoriska åtgärder för att hindra att Lantbruksdata delas i strid med Datadelande Parts inställningar. Agronod ska även meddela Datadelande Part minst 30 dagar innan Lantbruksdata delas med en ny licenstagare för att på så vis möjliggöra för Datadelande Part att granska och vid behov uppdatera sina inställningar i Webbportalen enligt punkt 10.1.
 
-**10.4** Datadelande Part ska utse en eller fler personer som av Datadelande Part härmed ges behörighet att med bindande verkan uppdatera Datadelande Parts inställningar i Webbportalen.
+**10.4** Datadelande Part ska utse en eller fler personer som av Datadelande Part härmed ges behörighet att med bindande verkan uppdatera Datadelande Parts inställningar i Webbportalen. Behörighet för sådant ombud tilldelas och återkallas av Datadelande Part genom meddelande till Agronod eller, när en sådan funktionalitet har tillgängliggjorts av Agronod, via Webbportalen.
 
-**10.5** Aggregerad Lantbruksdata och rapporter (t.ex. klimatberäkningsrapporter från verktyget Agrosfär) eller andra typer av produkter som baseras på, men inte innehåller, Lantbruksdata omfattas inte av förbehållen enligt detta avsnitt 10.
+**10.5** Data som har genererats genom klimatberäkningsverktyget Agrosfär med användning av Lantbruksdata från Datadelande Part omfattas inte av förbehåll och begränsningar utöver vad som följer av tillämplig lag förutsatt att den har genererats med användning även av Lantbruksdata som Agronod har licensierat från en eller flera datadelare som inte ingår i samma koncern som Datadelande Part.
 
 **11. Kommersiella villkor**
 
-**11.1** Parterna är överens om att Parternas långsiktiga relation förutsätter att detta Avtal kompletteras med bestämmelser av mer kommersiella natur, t.ex. avseende pris och betalning, har för avsikt om att göra sådana kompletteringar och tillägg till detta Avtal senast den 1 september 2022. Till dess att annat skriftligen överenskommits är Parterna dock överens om att ingen ersättning ska utgå till någon av Parterna med anledning av detta Avtal och att vardera Part ska stå sina egna kostnader med anledning av Avtalet.
+**11.1** Parterna är överens om att Parternas långsiktiga relation förutsätter att detta Avtal kompletteras med bestämmelser av mer kommersiella natur, t.ex. avseende pris och betalning samt eventuell kommande upplåtelse av Lantbruksdata från Agronod till Datadelande Part, och har för avsikt om att göra sådana kompletteringar och tillägg till detta Avtal senast den 1 september 2023. Till dess att annat skriftligen överenskommits är Parterna dock överens om att ingen ersättning ska utgå till någon av Parterna med anledning av detta Avtal och att vardera Part ska stå sina egna kostnader med anledning av Avtalet.
+
+**11.2** Vidare är Parterna införstådda i att Agronod vid detta Avtals ikraftträdande befinner sig i dialog med andra parter än Datadelande Part angående motsvarande datadelningsavtal som detta Avtal. Det är nödvändigt att villkoren i samtliga datadelningsavtal som Agronod ingår i allt väsentligt överensstämmer med varandra. Parterna är därför införstådda i att Parterna behöver komma överens även om andra typer av ändringar och tillägg till detta Avtal än de som nämns i punkt 11.1 för att uppnå detta.
 
 **12. Avtalstid**
 
-**12.1** Avtalet gäller från det att i) Datadelande Part har genomfört samtliga inställningar för datadelning i Webbportalen, och i) Avtalet har undertecknats av båda Parter och gäller därefter tills vidare, såvida inte Avtalet skriftligen sägs upp till förtida upphörande av Part med iakttagande av tolv (12) månaders uppsägningstid.
+**12.1** Avtalet gäller från det att i) Datadelande Part har genomfört samtliga inställningar för datadelning i Webbportalen, och i) Avtalet har undertecknats av båda Parter och gäller därefter tills vidare, såvida inte Avtalet skriftligen sägs upp till förtida upphörande av Part med iakttagande av en (1) månads uppsägningstid.
 
 **12.2** Part äger rätt att säga upp Avtalet till omedelbart upphörande i händelse av att:
 a) den andra Parten begår ett väsentligt avtalsbrott, där rättelse inte är möjlig;
@@ -120,7 +124,7 @@ b) att det framgår att Agronod, eller part som Agronod vidarelicensierat Lantbr
 
 **14.1** Part ansvarar inte under några omständigheter för den andra Partens uteblivna vinst, intäkt, besparing, goodwillskada, förlust på grund av driftavbrott, förlust av data, Parts eventuella ersättningsskyldighet gentemot tredje man eller annan indirekt skada eller följdskada av vad slag det vara må.
 
-**14.2** Parts sammanlagda och totala skadeståndsansvar under Avtalet, inklusive dess bilagor, avseende en eller flera händelser (oavsett om dessa har samband med varandra eller inte) ska inte i något fall överstiga tio (10) prisbasbelopp.
+**14.2** Parts sammanlagda och totala skadeståndsansvar under Avtalet, inklusive dess bilagor, avseende en eller flera händelser (oavsett om dessa har samband med varandra eller inte) ska inte i något fall överstiga 1 000 000 kronor.
 
 **14.3** Punkt 14 är inte tillämplig i händelse av att Part agerat grovt vårdslöst eller med uppsåt.
 
@@ -134,7 +138,7 @@ Underlåtenhet att fullgöra skyldigheter enligt Avtalet får inte åberopas mot
 
 **16.2** Ändringar eller tillägg till Avtalet ska för att bli bindande upprättas skriftligen och undertecknas av båda Parter.
 
-**16.3** Uppsägning och andra meddelanden som ska eller får lämnas enligt Avtalet ska skickas skriftligen till Parts vid var tid hos svenska Bolagsverkets registrerade adress eller, för meddelanden till Agronod, till [e-postadress] samt för meddelanden till Datadelande Part, till {{email}}.
+**16.3** Uppsägning och andra meddelanden som ska eller får lämnas enligt Avtalet ska skickas skriftligen till Parts vid var tid hos svenska Bolagsverkets registrerade adress eller, för meddelanden till Agronod, till avtal@agronod.com samt för meddelanden till Datadelande Part, till {{email}}.
 
 **16.4** Uppsägning eller andra meddelanden ska anses ha kommit mottagaren tillhanda
 a) om avlämnat med bud: vid överlämnandet, eller
@@ -192,6 +196,7 @@ c) om avsänt med e-post till ovan angiven e-postadress: när mottagaren svarat 
 **4. Sekretess**
 
 **4.1** Personuppgiftsbiträdet ska endast bevilja tillgång till de personuppgifter som behandlas på uppdrag av den personuppgiftsansvarige för personer som är underställda personuppgiftsbiträdet och har åtagit sig att bevara sekretessen, eller som omfattas av en lämplig lagstadgad och behovsenlig tystnadsplikt. Förteckningen över de personer som har beviljats tillgång ska granskas regelbundet. Med granskningen som grund kan sådan tillgång till personuppgifter återkallas om tillgången inte längre är nödvändig. Personuppgifterna är därefter inte längre tillgängliga för dessa personer.
+
 **4.2** Personuppgiftsbiträdet ska på begäran av den personuppgiftsansvarige kunna visa att berörda personer som är underställda personuppgiftsbiträdet iakttar ovannämnda sekretess.
 
 **5. Säkerhet vid behandling**
