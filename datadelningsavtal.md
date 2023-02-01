@@ -37,7 +37,7 @@ nedan var för sig benämnda ”Part” och gemensamt ”Parterna”.
 
 **5.4** Datadelande Part garanterar att Datadelande Part har rätt att licensiera Lantbruksdata till Agronod enligt vad som framgår av avsnitt 3 och att inga begränsningar ställs upp i avtal eller på annat sätt mellan Datadelande Part och tredje part som begränsar eller hindrar Agronod från att använda Lantbruksdata i enlighet med syftet med detta Avtal.
 
-{{avtalstillagImmateriellarattighter}}
+{{{avtalstillagImmateriellarattighter}}}
 
 **6. Parternas skyldigheter**
 
@@ -487,4 +487,4 @@ Denna bilaga 2 (Informationssäkerhetskrav) utgör en bilaga till datadelningsav
 
 **3.2** Om Agronod utför oberoende säkerhetsgranskningar med hjälp av en extern part ska sådana granskningsrapporter på begäran av Datadelande Part tillhandahållas utan extra kostnad. Om rapporten innehåller konfidentiell information om andra datadelare eller kunder får sådana uppgifter raderas innan rapporten tillhandahålls Datadelande Part. Datadelande Part hantera rapporten som konfidentiell information i enlighet med Avtalets bestämmelser om det.
 
-{{avtalstillaggBilaga}}
+{{{avtalstillaggBilaga}}}
