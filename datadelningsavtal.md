@@ -264,11 +264,11 @@ g) De åtgärder som den personuppgiftsansvarige har vidtagit eller föreslagit 
 
 **12.1** Personuppgiftsbiträdet har inte rätt till någon särskild ersättning baserat på innehållet i detta Personuppgiftsbiträdesavtal.
 
-**13.** Tvist och tillämplig lag
+**13. Tvist och tillämplig lag**
 
 **13.1** Personuppgiftsbiträdesavtalet ska tolkas enligt svensk lag, utan hänsyn till dess regler om lagval. Alla tvister kopplade till detta Personuppgiftsbiträdesavtal ska slutligen avgöras i enlighet med Datadelningsavtalets bestämmelser om tvistelösning.
 
-**14.** Inledande och avslutande
+**14. Inledande och avslutande**
 
 **14.1** Personuppgiftsbiträdesavtalet börjar gälla samtidigt som Datadelningsavtalet.
 
