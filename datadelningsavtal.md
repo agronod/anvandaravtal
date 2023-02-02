@@ -9,7 +9,7 @@ nedan var för sig benämnda ”Part” och gemensamt ”Parterna”.
 
 **2. Bakgrund**
 
-**2.1** Parternas har en gemensam vilja att bidra till utveckling och innovation av det svenska lantbruket. Som ett led i detta kommer Agronod, genom Datadelande Part, att inhämta data som härrör från lantbrukare som genom sin verksamhet genererar data av olika slag (inklusive men inte begränsat till data rörande kreatur, utsäde, skörd, gödsling, markprover, användning av kemikalier, produktköp, ordrar och maskinanvändning) (”Lantbruksdata”).
+**2.1** Parterna har en gemensam vilja att bidra till utveckling och innovation av det svenska lantbruket. Som ett led i detta kommer Agronod, genom Datadelande Part, att inhämta data som härrör från lantbrukare som genom sin verksamhet genererar data av olika slag (inklusive men inte begränsat till data rörande kreatur, utsäde, skörd, gödsling, markprover, användning av kemikalier, produktköp, ordrar och maskinanvändning) (”Lantbruksdata”).
 
 **2.2** Agronod utvecklar en dataplattform och andra tjänster där Lantbruksdata används för att bidra till utveckling och innovation av det svenska lantbruket. Agronod kommer även att dela Lantbruksdata med andra aktörer för affärstillämpningar som avser använda Lantbruksdata för ändamål som forskning, innovation, utveckling och främjande av det svenska lantbruket.
 
