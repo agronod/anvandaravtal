@@ -221,7 +221,7 @@ Den personuppgiftsansvarige ska utvärdera riskerna avseende fysiska personers r
 
 **6.4** Om underbiträdet inte fullgör sina dataskyddsskyldigheter är personuppgiftsbiträdet helt ansvarigt inför den personuppgiftsansvarige när det gäller fullgörandet av underbiträdets skyldigheter. Detta påverkar inte de registrerades rättigheter enligt den allmänna dataskyddsförordningen – särskilt de som föreskrivs i artiklarna 79 och 82 i den allmänna dataskyddsförordningen – gentemot den personuppgiftsansvarige och personuppgiftsbiträdet, inklusive underbiträdet.
 
-**7.** Överföring av uppgifter till tredjeland eller internationella organisationer
+**7. Överföring av uppgifter till tredjeland eller internationella organisationer**
 
 **7.1** All överföring av personuppgifter till tredjeland eller internationella organisationer av personuppgiftsbiträdet får endast utföras enligt dokumenterade anvisningar från den personuppgiftsansvarige och ska alltid utföras i enlighet med kapitel V i den allmänna dataskyddsförordningen.
 
