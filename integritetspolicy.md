@@ -33,7 +33,7 @@ Dina personuppgifter behandlas inom EU/EES.
 
 ## 5. Beskrivning av dina rättigheter med anledning behandlingen av dina personuppgifter
 
-Du har rättigheter med anledning av den behandling av dina personuppgifter som beskrivs i detta dokument, vilka beskrivs nedan. Om du har frågor om personuppgiftsbehandlingen eller vill utöva dina rättigheter kontaktar du enklast Agronod per telefon: (#) eller e-post: (#).  
+Du har rättigheter med anledning av den behandling av dina personuppgifter som beskrivs i detta dokument, vilka beskrivs nedan. Om du har frågor om personuppgiftsbehandlingen eller vill utöva dina rättigheter kontaktar du enklast Agronod per telefon: 073-376 26 06 eller e-post: dataskydd@agronod.com.  
 
 ### Rätt att inge klagomål (artikel 77 i GDPR)
 
