@@ -3,11 +3,11 @@
 ## 1. Om Agronods hantering av personuppgifter
 
 Denna integritetspolicy beskriver hur Agronod AB, org. nr. 559270-6245 (nedan benämnd "**Agronod**", "**vi**", "**oss**" eller "**vår**") samlar in och behandlar uppgifter om din näringsverksamhet, men även uppgifter som skulle kunna härledas till dig som individ (personuppgifter) i samband med att du använder våra tjänster. Agronod ansvarar i egenskap av personuppgiftsansvarig för dessa personuppgiftsbehandlingar. Dataskyddsförordningen (GDPR) ger dig rätt att erhålla transparent information om dessa personuppgiftsbehandlingar och syftet med detta dokument är att tillhandahålla sådan information. 
-
+<br><br>
 Vi behandlar alltid alla dina personuppgifter inom EU/EES såvida inte annat uttryckligen anges. För att bedriva vår verksamhet använder vi oss av IT-leverantörer som i samband med att de tillhandahåller sina tjänster till oss behandlar personuppgifter (en behandling kan till exempel vara att lagra information på en server). Det är Agronod som ansvarar för deras behandling av personuppgifterna och vi tecknar alltid personuppgiftsbiträdesavtal med dem för att säkerställa att de endast behandlar personuppgifter i enlighet med våra instruktioner. Den lagliga grunden för personuppgiftsbehandlingen är en s.k. intresseavvägning (artikel 6(1)(f) GDPR). Agronod har bedömt att vi har ett berättigat intresse av att kunna upphandla IT-tjänster och att IT-leverantörernas behandling av personuppgifter som därav följer är nödvändig för att tillgodose detta intresse samt att det väger tyngre än ditt intresse av att personuppgifterna inte behandlas för att detta ändamål.  
 
 Vi delar aldrig dina uppgifter vidare till några andra parter eller ändamål än de du själv godkänner via dina inställningar.  
-
+<br><br>
 Agronod kan komma att behandla dina personuppgifter i följande situationer:  
 
 - Som följd av att du registrerar ett användarkonto, detta beskrivs i avsnitt \[2\] 
@@ -97,12 +97,12 @@ Du har rättigheter med anledning av den behandling av dina personuppgifter som 
 
 Du har rätt att lämna klagomål till en behörig tillsynsmyndighet. Behörig tillsynsmyndighet i Sverige är Integritetsskyddsmyndigheten (www.imy.se). 
 
-> ***I detalj.** Din rätt att klaga gäller i det fall det inte påverkar
+> **I detalj.** Din rätt att klaga gäller i det fall det inte påverkar
 > något annat administrativt prövningsförfarande eller rättsmedel. Ett
 > sådant klagomål lämnas med fördel till myndigheten i den medlemsstat
 > inom EU/EES där du har din vanliga hemvist, där du arbetar eller där
 > en överträdelse av gällande lagar och regler för dataskydd påstås ha
-> förekommit.*
+> förekommit.
 
 ## Rätt att återkalla samtycke 
 
@@ -112,19 +112,19 @@ Du har rätt att när som helst återkalla ditt samtycke som du har lämnat till
 
 Du har alltid rätt att när som helst göra invändningar mot behandling av personuppgifter avseende dig som grundar sig på en intresseavvägning samt behandling för direktmarknadsföringsändamål.  
 
-> ***I detalj.** Om du invänder får den personuppgiftsansvarige inte
+> **I detalj.** Om du invänder får den personuppgiftsansvarige inte
 > längre behandla dina personuppgifter, undantaget om den
 > personuppgiftsansvarige kan visa tvingande berättigade skäl för
 > behandlingen som väger tyngre än dina intressen, rättigheter och
 > friheter eller om det sker för fastställande, utövande eller försvar
 > av rättsliga anspråk. Om du invänder mot direktmarknadsföring kommer
-> behandlingen för detta ändamål att upphöra.*
+> behandlingen för detta ändamål att upphöra.
 
 ## Rätt till tillgång (artikel 15 i GDPR) 
 
 Du har rätt att få en bekräftelse på om personuppgifter som rör dig behandlas av den personuppgiftsansvarige, en kopia av de personuppgifter som är under behandling och information om behandlingen. 
 
-> ***I detalj.** Den information du i sådana fall får tillgång till är:*
+> **I detalj.** Den information du i sådana fall får tillgång till är:
 > -   *ändamålen med behandlingen;*
 > -   *de kategorier av personuppgifter som behandlingen gäller;*
 > -   *de mottagare eller kategorier av mottagare till vilka
@@ -156,18 +156,18 @@ Du har rätt att få en bekräftelse på om personuppgifter som rör dig behandl
 
 Du har rätt att utan onödigt dröjsmål få felaktiga personuppgifter som rör dig rättade. Med beaktande av ändamålet har du även rätt att komplettera ofullständiga personuppgifter, bland annat genom att tillhandahålla ett kompletterande utlåtande.  
 
-> ***I detalj.** Den personuppgiftsansvarige kommer underrätta varje
+> **I detalj.** Den personuppgiftsansvarige kommer underrätta varje
 > mottagare till vilka personuppgifterna har lämnats ut om eventuell
 > rättelse som skett, om inte detta visar sig vara omöjligt eller medför
-> en oproportionell ansträngning.*
+> en oproportionell ansträngning.
 
 ## Rätt till radering (rätten att bli bortglömd) (artikel 17 i GDPR) 
 
 Du har rätt att utan onödigt dröjsmål få dina personuppgifter raderade av den personuppgiftsansvarige. 
 
-> ***I detalj.** Den personuppgiftsansvarige har en skyldighet att utan
+> **I detalj.** Den personuppgiftsansvarige har en skyldighet att utan
 > onödigt dröjsmål radera dina personuppgifter om något av följande
-> gäller:*
+> gäller:
 > -   *personuppgifterna inte längre är nödvändiga för de ändamål som de
     samlats in eller behandlats för;*
 > -   *du invänder mot behandlingen enligt artikel 21.1 i GDPR och det
@@ -205,7 +205,7 @@ Du har rätt att utan onödigt dröjsmål få dina personuppgifter raderade av d
 
 Du har rätt att begära att behandlingen av dina personuppgifter begränsas. 
 
-> ***I detalj.** Din rätt gäller om:*
+> **I detalj.** Din rätt gäller om:
 > -   *du bestrider uppgifternas riktighet (dock endast under en tid som
     ger den personuppgiftsansvarige möjlighet att kontrollera detta);*
 > -   *behandlingen är olaglig och du motsätter dig att personuppgifterna
@@ -239,11 +239,11 @@ Du har rätt att begära att behandlingen av dina personuppgifter begränsas.
 
 Du har rätt att få ut dina personuppgifter i ett strukturerat, allmänt använt och maskinläsbart format från den personuppgiftsansvarige. Du har även rätt att få dina personuppgifter överförda till en annan personuppgiftsansvarig när det är tekniskt möjligt ("dataportabilitet").  
 
-> ***I detalj.** Rätten till dataportabilitet gäller för personuppgifter
+> **I detalj.** Rätten till dataportabilitet gäller för personuppgifter
 > som du har lämnat till den personuppgiftsansvarige i ett strukturerat,
 > allmänt använt och maskinläsbart format om behandlingen baserar sig på
 > den lagliga grunden fullgörande av avtal (artikel 6.1 b) i GDPR) och
-> behandlingen sker automatiserat.*
+> behandlingen sker automatiserat.
 >
 > *Din rätt till dataportabilitet får inte påverka andras rättigheter
 > och friheter på ett ogynnsamt sätt.*
