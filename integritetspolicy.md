@@ -125,34 +125,25 @@ Du har alltid rätt att när som helst göra invändningar mot behandling av per
 Du har rätt att få en bekräftelse på om personuppgifter som rör dig behandlas av den personuppgiftsansvarige, en kopia av de personuppgifter som är under behandling och information om behandlingen. 
 
 > ***I detalj.** Den information du i sådana fall får tillgång till är:*
-
--   *ändamålen med behandlingen;*
-
--   *de kategorier av personuppgifter som behandlingen gäller;*
-
--   *de mottagare eller kategorier av mottagare till vilka
+> -   *ändamålen med behandlingen;*
+> -   *de kategorier av personuppgifter som behandlingen gäller;*
+> -   *de mottagare eller kategorier av mottagare till vilka
     personuppgifterna har lämnats eller ska lämnas ut, särskilt
     mottagare i tredjeländer eller internationella organisationer;*
-
--   *om möjligt den förutsedda period under vilken personuppgifterna
+> -   *om möjligt den förutsedda period under vilken personuppgifterna
     kommer att lagras eller, om detta inte är möjligt, de kriterier som
     används för att fastställa denna period;*
-
--   *förekomsten av rätten att av den personuppgiftsansvarige begära
+> -   *förekomsten av rätten att av den personuppgiftsansvarige begära
     rättelse eller radering av personuppgifterna eller begränsningar av
     behandling av personuppgifter som rör dig eller att invända mot
     sådan behandling;*
-
--   *rätten att inge klagomål till en tillsynsmyndighet;*
-
--   *förekomsten av automatiserat beslutsfattande, inbegripet
+> -   *rätten att inge klagomål till en tillsynsmyndighet;*
+> -   *förekomsten av automatiserat beslutsfattande, inbegripet
     profilering enligt artiklarna 22.1 och 22.4 i GDPR; och*
-
--   *om personuppgifterna överförs till ett tredjeland eller till en
+> -   *om personuppgifterna överförs till ett tredjeland eller till en
     internationell organisation, har du även rätt till information om de
     lämpliga skyddsåtgärder som i enlighet med artikel 46 i GDPR har
     vidtagits vid överföringen.*
-
 > *Du har rätt att få en kopia av de personuppgifter som behandlas av
 > den personuppgiftsansvarige. För eventuella ytterligare kopior som du
 > begär får den personuppgiftsansvarige ta ut en rimlig avgift på
@@ -177,41 +168,33 @@ Du har rätt att utan onödigt dröjsmål få dina personuppgifter raderade av d
 > ***I detalj.** Den personuppgiftsansvarige har en skyldighet att utan
 > onödigt dröjsmål radera dina personuppgifter om något av följande
 > gäller:*
-
--   *personuppgifterna inte längre är nödvändiga för de ändamål som de
+> -   *personuppgifterna inte längre är nödvändiga för de ändamål som de
     samlats in eller behandlats för;*
-
--   *du invänder mot behandlingen enligt artikel 21.1 i GDPR och det
+> -   *du invänder mot behandlingen enligt artikel 21.1 i GDPR och det
     saknas berättigade skäl för behandlingen som väger tyngre, eller du
     invänder mot behandlingen i enlighet med artikel 21.2 i GDPR;*
-
--   *personuppgifterna har behandlats på olagligt sätt; eller*
-
--   *personuppgifterna måste raderas för att uppfylla en rättslig
+> -   *personuppgifterna har behandlats på olagligt sätt; eller*
+> -   *personuppgifterna måste raderas för att uppfylla en rättslig
     förpliktelse i unionsrätten eller i medlemsstaternas nationella rätt
     som den personuppgiftsansvarige omfattas av.*
-
+> 
 > *Notera att den personuppgiftsansvariges skyldighet att radera
 > personuppgifter inte gäller i den utsträckning som behandlingen är
 > nödvändig av följande skäl:*
-
--   *för att utöva rätten till yttrande- och informationsfrihet;*
-
--   *för att uppfylla en rättslig förpliktelse som kräver behandling
+> 
+> -   *för att utöva rätten till yttrande- och informationsfrihet;*
+> -   *för att uppfylla en rättslig förpliktelse som kräver behandling
     enligt unionsrätten eller enligt en medlemsstats nationella rätt som
     den personuppgiftsansvarige omfattas av eller för att utföra en
     uppgift av allmänt intresse eller som är ett led i
     myndighetsutövning som utförs av den personuppgiftsansvarige;*
-
--   *för arkivändamål av allmänt intresse, vetenskapliga eller
+> -   *för arkivändamål av allmänt intresse, vetenskapliga eller
     historiska forskningsändamål eller statistiska ändamål enligt
     artikel 89.1 i GDPR, i den utsträckning som din rätt till radering
     sannolikt omöjliggör eller avsevärt försvårar uppnåendet av syftet
     med den behandlingen; eller*
-
--   *för att kunna fastställa, göra gällande eller försvara rättsliga
+> -   *för att kunna fastställa, göra gällande eller försvara rättsliga
     anspråk.*
-
 > *Den personuppgiftsansvarige kommer underrätta varje mottagare till
 > vilka personuppgifterna har lämnats ut om eventuell radering som skett
 > enligt ovan, om inte detta visar sig vara omöjligt eller medför en
@@ -223,25 +206,21 @@ Du har rätt att utan onödigt dröjsmål få dina personuppgifter raderade av d
 Du har rätt att begära att behandlingen av dina personuppgifter begränsas. 
 
 > ***I detalj.** Din rätt gäller om:*
-
--   *du bestrider uppgifternas riktighet (dock endast under en tid som
+> -   *du bestrider uppgifternas riktighet (dock endast under en tid som
     ger den personuppgiftsansvarige möjlighet att kontrollera detta);*
-
--   *behandlingen är olaglig och du motsätter dig att personuppgifterna
+> -   *behandlingen är olaglig och du motsätter dig att personuppgifterna
     raderas samt istället begär en begränsning av uppgifternas
     användning;*
-
--   *du behöver personuppgifterna för att göra gällande eller försvara
+> -   *du behöver personuppgifterna för att göra gällande eller försvara
     rättsliga anspråk trots att den personuppgiftsansvarige inte längre
     behöver personuppgifterna för den personuppgiftsansvariges ändamål
     med behandlingen; eller*
-
--   *du har invänt mot behandlingen i enlighet med artikel 21.1 i GDPR
+> -   *du har invänt mot behandlingen i enlighet med artikel 21.1 i GDPR
     och den personuppgiftsansvarige inte har utfört en kontroll av om
     den personuppgiftsansvariges berättigade intresse att behandla dina
     personuppgifter väger tyngre än ditt berättigade skäl av att
     behandlingen av dina personuppgifter begränsas.*
-
+> 
 > *Om behandlingen begränsas får de aktuella personuppgifterna, med
 > undantag för lagring, endast behandlas med ditt samtycke eller för att
 > fastställa, göra gällande eller försvara rättsliga anspråk eller för
