@@ -34,7 +34,7 @@ I samband med att (=innan) du genom dina val ansluter nya datakällor eller tjä
 
 - Om en ansluten tjänst innebär att dina personuppgifter förs över till en annan part än Agronod som då själv blir personuppgiftsansvarig så innebär det att denna parts Integritetspolicy kommer att gälla. Eller enklare uttryckt: Vissa av tjänsterna du kan ansluta hanteras av annan part än Agronod. Då blir denna part personuppgiftsansvarig vilket innebär att Agronod ej längre bestämmer över de personuppgifter som delas med denna part. Det innebär i sin tur att för dessa personuppgifter gäller ej denna integritetspolicy utan dden policy som gäller för den part som utför tjänsten. För att underlätta din tillvaro åtar sig Agronod att alltid (i samband med att du ansluter en ny tjänst) tydligt uppmärksamma dig på om tjänsten innebär att hanteringen sker under någon annans integritetspolicy än Agronods(\*).  
 
-
+<br><br>
 (\*): Då vi på Agronod fäster stor vikt vid hantering av personuppgifter då datahantering är väl kärnverksamhet så har vi alltid själva gjort en screening innan någon part får rätt att ansluta tjänster via vår portal, men då integritet är viktigt rekommenderar vi att du även själv sätter dig in i den tjänstelevererande partens integritetspolicy före delning.  
 
 ## 2. Information om Agronods behandling av personuppgifter om du registrerar ett användarkonto hos Agronod
@@ -43,14 +43,14 @@ Informationen i detta avsnitt beskriver den behandling av personuppgifter som f�
 
 |#   |Ändamål med personuppgiftbehandlingen    |Kategorier av personuppgifter som används    |Laglig grund för personuppgiftsbehandlingen    |Hur länge personuppgifterna behandlas    |
 |----|-----------------------------------------|---------------------------------------------|-----------------------------------------------|-----------------------------------------|
-| 1.  |För att administrera avtalsrelationen mellan Agronod och dig som enskild näringsidkare alternativt den juridiska person (t.ex. ett aktiebolag) som du bedriver din verksamhet i.   |Ditt namn<br /><br />Firmanamn för din verksamhet och dess organisationsnummer<br /><br />Din e-postadress<br /><br />Ditt telefonnummer  |Den lagliga grunden för behandlingen är att Agronod ska kunna fullgöra avtalet mellan dig och Agronod (artikel 6(1)(b) GDPR). |Uppgifterna raderas tre år från din senaste inloggning hos Agronod såvida du inte själv dessförinnan begär att få dem raderade. |
-| 2.  |För att säkerställa din identitet vid inloggning i syfte att upprätthålla informationssäkerhet och inte dela information om dig och din verksamhet med obehöriga. |Ditt personnummer |Den lagliga grunden för behandlingen är att Agronod ska kunna fullgöra avtalet mellan dig och Agronod (artikel 6(1)(b) GDPR).  |Uppgifterna raderas tre år från din senaste inloggning hos Agronod såvida du inte själv dessförinnan begär att få dem raderade. |
-| 3.  |För att informera dig om Agronods produkter och tjänster (marknadsföring).  |Ditt namn<br>Din e-postadress |En s.k. intresseavvägning enligt artikel 6(1)(f) GDPR. Det betyder att vi har bedömt att behandlingen av uppgifterna krävs för Agronods berättigade intresse av att marknadsföra sina produkter och tjänster och detta intresse inte överstiger dina rättigheter och friheter samt att det även kan ligga i ditt intresse att få ta del av information om hur du kan maximera nyttan av vår plattform.    |Uppgifterna raderas tre år från din senaste inloggning hos Agronod.<br>Du kan också meddela att du inte längre vill ta emot marknadsföring kommer vi upphöra med användningen av dina personuppgifter för detta ändamål.  |
+| 1.  |För att administrera avtalsrelationen mellan Agronod och dig som enskild näringsidkare alternativt den juridiska person (t.ex. ett aktiebolag) som du bedriver din verksamhet i.   |Ditt namn<br /><br />Firmanamn för din verksamhet och dess organisationsnummer<br /><br />Din e-postadress<br /><br />Ditt telefonnummer  |Den lagliga grunden för behandlingen är att Agronod ska kunna fullgöra avtalet mellan dig och Agronod (artikel 6.1 b GDPR). |Uppgifterna raderas tre år från din senaste inloggning hos Agronod såvida du inte själv dessförinnan begär att få dem raderade. |
+| 2.  |För att säkerställa din identitet vid inloggning i syfte att upprätthålla informationssäkerhet och inte dela information om dig och din verksamhet med obehöriga. |Ditt personnummer |Den lagliga grunden för behandlingen är att Agronod ska kunna fullgöra avtalet mellan dig och Agronod (artikel 6.1 b GDPR).  |Uppgifterna raderas tre år från din senaste inloggning hos Agronod såvida du inte själv dessförinnan begär att få dem raderade. |
+| 3.  |För att informera dig om Agronods produkter och tjänster (marknadsföring).  |Ditt namn<br>Din e-postadress |En s.k. intresseavvägning enligt artikel 6.1 f GDPR. Det betyder att vi har bedömt att behandlingen av uppgifterna krävs för Agronods berättigade intresse av att marknadsföra sina produkter och tjänster och detta intresse inte överstiger dina rättigheter och friheter samt att det även kan ligga i ditt intresse att få ta del av information om hur du kan maximera nyttan av vår plattform.    |Uppgifterna raderas tre år från din senaste inloggning hos Agronod.<br>Du kan också meddela att du inte längre vill ta emot marknadsföring kommer vi upphöra med användningen av dina personuppgifter för detta ändamål.  |
 
 
 ## 3. Information om Agronods hantering av fullmakter för att kunna inhämta data från anslutna datakällor
 
-När du ansluter nya datakällor kommer vi be dig att lämna en fullmakt till Agronods inhämtning av dina data från de anslutna datakällorna. Behandlingen av dina personuppgifter i samband med fullmaktshanteringen sker för att dokumentera och bekräfta ditt samtycke till Agronods inhämtning av -- och datakällornas utlämning av -- dina personuppgifter och annan data om din näringsverksamhet. Agronod är personuppgiftsansvarig för den personuppgiftsbehandling som sker vid hantering av fullmakter. 
+När du ansluter nya datakällor kommer vi be dig att lämna en fullmakt till Agronods inhämtning av dina data från de anslutna datakällorna. Behandlingen av dina personuppgifter i samband med fullmaktshanteringen sker för att dokumentera och bekräfta ditt samtycke till Agronods inhämtning av - och datakällornas utlämning av - dina personuppgifter och annan data om din näringsverksamhet. Agronod är personuppgiftsansvarig för den personuppgiftsbehandling som sker vid hantering av fullmakter. 
 
 
 |#   |Ändamål med personuppgiftbehandlingen    |Kategorier av personuppgifter som används    |Laglig grund för personuppgiftsbehandlingen    |Hur länge personuppgifterna behandlas    |
@@ -81,7 +81,7 @@ I samband med att du ansluter en tjänst ges även specifik information avseende
 
 - I vilket syfte behandlas dessa personuppgifter? 
 
-- Till vilken annan part, Namn & org.nr (vem utför tjänsten du avser att ansluta) delas personuppgifterna?  
+- Till vilken annan part, namn & org.nr (vem utför tjänsten du avser att ansluta) delas personuppgifterna?  
 
 - Vilka personuppgifter omfattas? 
 
