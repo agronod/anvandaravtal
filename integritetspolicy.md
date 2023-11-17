@@ -35,7 +35,7 @@ I samband med att (=innan) du genom dina val ansluter nya datakällor eller tjä
 - Om en ansluten tjänst innebär att dina personuppgifter förs över till en annan part än Agronod som då själv blir personuppgiftsansvarig så innebär det att denna parts Integritetspolicy kommer att gälla. Eller enklare uttryckt: Vissa av tjänsterna du kan ansluta hanteras av annan part än Agronod. Då blir denna part personuppgiftsansvarig vilket innebär att Agronod ej längre bestämmer över de personuppgifter som delas med denna part. Det innebär i sin tur att för dessa personuppgifter gäller ej denna integritetspolicy utan dden policy som gäller för den part som utför tjänsten. För att underlätta din tillvaro åtar sig Agronod att alltid (i samband med att du ansluter en ny tjänst) tydligt uppmärksamma dig på om tjänsten innebär att hanteringen sker under någon annans integritetspolicy än Agronods(\*).  
 
 <br><br>
-(\*): För Agronod är datahanering vår kärnverksamhet och vi fäster stor vikt vid vår hantering av personuppgifter vilket bland annat innebär att vi alltid gjort en screening innan någon part får rätt att ansluta tjänster via vår portal. Vi rekommenderar ändå att även du själv sätter dig in i tjänsteleverantörens egen integritetsolicy innan du godkänner en ny datadelning.
+(\*): För Agronod är datahanering vår kärnverksamhet och vi fäster stor vikt vid vår hantering av personuppgifter vilket bland annat innebär att vi alltid gjort en screening innan någon part får rätt att ansluta tjänster via vår portal. Vi rekommenderar ändå att även du själv sätter dig in i tjänsteleverantörens egen integritetsolicy innan du godkänner en ny datadelning.  
 
 ## 2. Information om Agronods behandling av personuppgifter om du registrerar ett användarkonto hos Agronod
 
