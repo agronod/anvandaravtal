@@ -60,6 +60,7 @@ Informationen i detta avsnitt beskriver den behandling av personuppgifter som f�
 När du ansluter nya datakällor kommer vi be dig att lämna en fullmakt till Agronods inhämtning av dina data från de anslutna datakällorna. Behandlingen av dina personuppgifter i samband med fullmaktshanteringen sker för att dokumentera och bekräfta ditt samtycke till Agronods inhämtning och datakällornas utlämning av dina personuppgifter och annan data om din näringsverksamhet.  Agronod är personuppgiftsansvarig för den personuppgiftsbehandling som sker vid hantering av fullmakter.
 <br>
 <br>
+
 | #   | Ändamål med personuppgiftbehandlingen                                                                                                                                                     | Kategorier av personuppgifter som används                                                                                                                     | Laglig grund för personuppgiftsbehandlingen                              | Hur länge personuppgifterna behandlas                                    |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
 | 1.  | För att ha kontroll avseende vilka datakällor du givit Agronod fullmakt att inhämta data från samt för att kunna tillhandahålla dessa fullmakter till de källor från vilka data inhämtas. | Ditt namn<br><br>Personnummer<br><br>Organisationsnummer och firmanamn för den verksamhet du företräder<br><br>Ditt val att hämta eller inte hämta data från denna källa. | Den lagliga grunden för behandlingen är samtycke (artikel 6.1 a i GDPR). | Uppgifterna kommer att lagras så länge har ett aktivt konto hos Agronod. |
@@ -117,7 +118,7 @@ Du har rättigheter med anledning av den behandling av dina personuppgifter som 
 
 Du har rätt att lämna klagomål till en behörig tillsynsmyndighet. Behörig tillsynsmyndighet i Sverige är Integritetsskyddsmyndigheten (www.imy.se).
 
-> _**I detalj.** Din rätt att klaga gäller i det fall det inte påverkar
+> _**I detalj.** Din rätt att klaga gäller i det fall det inte påverkar_
 > _något annat administrativt prövningsförfarande eller rättsmedel. Ett_
 > _sådant klagomål lämnas med fördel till myndigheten i den medlemsstat_
 > _inom EU/EES där du har din vanliga hemvist, där du arbetar eller där_
