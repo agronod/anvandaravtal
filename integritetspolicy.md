@@ -7,9 +7,9 @@ Denna integritetspolicy beskriver hur Agronod AB, org. nr. 559270-6245 (nedan be
 Dataskyddsförordningen (GDPR, 2016/679) ger dig rätt att erhålla transparent information om dessa personuppgiftsbehandlingar och syftet med detta dokument är att tillhandahålla sådan information.
 <br><br>
 Vi behandlar alltid alla dina personuppgifter inom EU/EES såvida inte annat uttryckligen anges. För att bedriva vår verksamhet använder vi oss av IT-leverantörer som i samband med att de tillhandahåller sina tjänster till oss behandlar personuppgifter (en behandling kan till exempel vara att lagra information på en server). Det är Agronod som ansvarar för deras behandling av personuppgifterna och vi tecknar alltid personuppgiftsbiträdesavtal med dem för att säkerställa att de endast behandlar personuppgifter i enlighet med våra instruktioner. Den lagliga grunden för personuppgiftsbehandlingen är en s.k. intresseavvägning (artikel 6.1 f GDPR). Agronod har bedömt att vi har ett berättigat intresse av att kunna upphandla IT-tjänster och att IT-leverantörernas behandling av personuppgifter som därav följer är nödvändig för att tillgodose detta intresse samt att det väger tyngre än ditt intresse av att personuppgifterna inte behandlas för att detta ändamål.
-
+<br><br>
 Vi delar aldrig dina uppgifter vidare till några andra parter eller ändamål än de du själv godkänner via dina inställningar.
-
+<br><br>
 Agronod kan komma att behandla dina personuppgifter i följande situationer:
 
 - Som följd av att du registrerar ett användarkonto, detta beskrivs i avsnitt \[2\]
@@ -21,12 +21,13 @@ Agronod kan komma att behandla dina personuppgifter i följande situationer:
 - I samband med att du ansluter tjänster, detta beskrivs i avsnitt \[5\]
 
 - För support, kvalitetssäkring och utveckling av plattformen \[6\]
-
+<br><br>
 I avsnitt \[7\] kan du läsa om dina rättigheter med anledning av samtliga av våra personuppgiftsbehandlingar.
  <br>
  <br>
  <br>
-  I samband med att (=innan) du genom dina val ansluter nya datakällor eller tjänster, ger vi dig alltid specifik information om vad som gäller utöver den allmänna information som ges i denna integritetspolicy. Denna speciella information är av typen:
+ <br>
+I samband med att (=innan) du genom dina val ansluter nya datakällor eller tjänster, ger vi dig alltid specifik information om vad som gäller utöver den allmänna information som ges i denna integritetspolicy. Denna speciella information är av typen:
 
 - Vilket är ändamålet med personuppgiftsbehandlingen?
 
@@ -39,12 +40,13 @@ I avsnitt \[7\] kan du läsa om dina rättigheter med anledning av samtliga av v
 - Hur länge kommer uppgifterna att sparas?
 
 - Om en ansluten tjänst innebär att dina personuppgifter förs över till en annan part än Agronod som då själv blir personuppgiftsansvarig så innebär det att denna parts Integritetspolicy kommer att gälla. Eller enklare uttryckt: Vissa av tjänsterna du kan ansluta hanteras av annan part än Agronod. Då blir denna part personuppgiftsansvarig vilket innebär att Agronod ej längre bestämmer över de personuppgifter som delas med denna part. Det innebär i sin tur att för dessa personuppgifter gäller ej denna integritetspolicy utan den policy som gäller för den part som utför tjänsten. För att underlätta din tillvaro åtar sig Agronod att alltid (i samband med att du ansluter en ny tjänst) tydligt uppmärksamma dig på om tjänsten innebär att hanteringen sker under någon annans integritetspolicy än Agronods(\*).´
-
+<br><br>
 (\*): För Agronod är datahantering vår kärnverksamhet och vi fäster stor vikt vid vår hantering av personuppgifter vilket bland annat innebär att vi alltid gjort en screening innan någon part får rätt att ansluta tjänster via vår portal. Vi rekommenderar ändå att även du själv sätter dig in i tjänsteleverantörens egen integritetspolicy innan du godkänner en ny datadelning.
 
 ## 2. Information om Agronods behandling av personuppgifter om du registrerar ett användarkonto hos Agronod
 
 Informationen i detta avsnitt beskriver den behandling av personuppgifter som följer av att du registrerar ett användarkonto hos Agronod. Personuppgifterna inhämtas från dig i samband med registreringen.
+<br>
 <br>
 
 | #   | Ändamål med personuppgiftbehandlingen                                                                                                                                            | Kategorier av personuppgifter som används                                                                                                | Laglig grund för personuppgiftsbehandlingen                                                                                                                                                                                                                                                                                                                                                          | Hur länge personuppgifterna behandlas                                                                                                                                                                                    |
@@ -56,19 +58,23 @@ Informationen i detta avsnitt beskriver den behandling av personuppgifter som f�
 ## 3. Information om Agronods hantering av fullmakter för att kunna inhämta data från anslutna datakällor
 
 När du ansluter nya datakällor kommer vi be dig att lämna en fullmakt till Agronods inhämtning av dina data från de anslutna datakällorna. Behandlingen av dina personuppgifter i samband med fullmaktshanteringen sker för att dokumentera och bekräfta ditt samtycke till Agronods inhämtning och datakällornas utlämning av dina personuppgifter och annan data om din näringsverksamhet.  Agronod är personuppgiftsansvarig för den personuppgiftsbehandling som sker vid hantering av fullmakter.
-
+<br>
+<br>
 | #   | Ändamål med personuppgiftbehandlingen                                                                                                                                                     | Kategorier av personuppgifter som används                                                                                                                     | Laglig grund för personuppgiftsbehandlingen                              | Hur länge personuppgifterna behandlas                                    |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
 | 1.  | För att ha kontroll avseende vilka datakällor du givit Agronod fullmakt att inhämta data från samt för att kunna tillhandahålla dessa fullmakter till de källor från vilka data inhämtas. | Ditt namn<br><br>Personnummer<br><br>Organisationsnummer och firmanamn för den verksamhet du företräder<br><br>Ditt val att hämta eller inte hämta data från denna källa. | Den lagliga grunden för behandlingen är samtycke (artikel 6.1 a i GDPR). | Uppgifterna kommer att lagras så länge har ett aktivt konto hos Agronod. |
-
+<br>
+<br>
 _Kategorier av mottagare._ Uppgifterna kommer att tillgängliggöras för de datakällor du valt att ansluta till Agronod. Detta för att de skall kunna säkerställa att de har rätt att lämna ut uppgifterna till oss (Agronod).
 
 ## 4. Information om Agronods hantering av personuppgifter i samband med inhämtning av personuppgifter från anslutna datakällor
 
 _Personuppgiftsansvarig._ Agronod är personuppgiftsansvarig för personuppgifterna från och med det att uppgifterna inkommer till Agronods IT-miljöer. För den behandling som sker innan personuppgifterna når Agronod ansvarar de anslutna datakällorna som självständigt personuppgiftsansvariga.
-
+<br>
+<br>
 Vi behandlar aldrig uppgifter som du inte själv samtyckt till att vi inhämtar och alla uppgifter som vi inhämtar hanteras i enlighet med den integritetspolicy du just nu läser. Den lagliga grunden för behandlingen är samtycke (artikel 6.1 a i GDPR).
-
+<br>
+<br>
 Vissa aspekter är specifika beroende på vilken datakälla som ansluts och i vilket syfte, därför ger vi dig i samband med att (=innan) du godkänner inhämtande av data från en ansluten datakälla specifik information avseende:
 
 - Ändamål med personuppgiftsbehandlingen
@@ -80,7 +86,8 @@ Vissa aspekter är specifika beroende på vilken datakälla som ansluts och i vi
 ## 5. Information om Agronods hantering av personuppgifter i samband med att du ansluter tjänster
 
 _Personuppgiftsansvarig._ Om tjänsten tillhandahålls av Agronod är vi personuppgiftsansvariga. Om tjänsten däremot levereras av annan part kommer denna part att vara personuppgiftsansvarig för de uppgifter som de tar emot i samband med behandlingen. Den integritetspolicy du läser just nu gäller för personuppgifter där Agronod är personuppgiftsansvarigt men vi bestämmer ej över vilken personuppgiftspolicy annan part har så innan du ansluter en annan tjänst är det viktigt att ta del av denna parts personuppgiftspolicy först. I samband med att (=innan) du ansluter en tjänst tillhandahållen av annan part kommer Agronod att upplysa dig om att tjänsten tillhandahålls av annan part som då är personuppgiftsansvarig och att den policy du läser just nu då inte kommer att gälla för just denna tjänst.
-
+<br>
+<br>
 I samband med att du ansluter en tjänst ges även specifik information avseende:
 
 - I vilket syfte behandlas dessa personuppgifter?
@@ -110,12 +117,12 @@ Du har rättigheter med anledning av den behandling av dina personuppgifter som 
 
 Du har rätt att lämna klagomål till en behörig tillsynsmyndighet. Behörig tillsynsmyndighet i Sverige är Integritetsskyddsmyndigheten (www.imy.se).
 
-> **I detalj.** Din rätt att klaga gäller i det fall det inte påverkar
-> något annat administrativt prövningsförfarande eller rättsmedel. Ett
-> sådant klagomål lämnas med fördel till myndigheten i den medlemsstat
-> inom EU/EES där du har din vanliga hemvist, där du arbetar eller där
-> en överträdelse av gällande lagar och regler för dataskydd påstås ha
-> förekommit.
+> _**I detalj.** Din rätt att klaga gäller i det fall det inte påverkar
+> _något annat administrativt prövningsförfarande eller rättsmedel. Ett_
+> _sådant klagomål lämnas med fördel till myndigheten i den medlemsstat_
+> _inom EU/EES där du har din vanliga hemvist, där du arbetar eller där_
+> _en överträdelse av gällande lagar och regler för dataskydd påstås ha_
+> _förekommit._
 
 ### Rätt att återkalla samtycke
 
@@ -125,20 +132,19 @@ Du har rätt att när som helst återkalla ditt samtycke som du har lämnat till
 
 Du har alltid rätt att när som helst göra invändningar mot behandling av personuppgifter avseende dig som grundar sig på en intresseavvägning samt behandling för direktmarknadsföringsändamål.
 
-> **I detalj.** Om du invänder får den personuppgiftsansvarige inte
-> längre behandla dina personuppgifter, undantaget om den
-> personuppgiftsansvarige kan visa tvingande berättigade skäl för
-> behandlingen som väger tyngre än dina intressen, rättigheter och
-> friheter eller om det sker för fastställande, utövande eller försvar
-> av rättsliga anspråk. Om du invänder mot direktmarknadsföring kommer
-> behandlingen för detta ändamål att upphöra.
+> _**I detalj.** Om du invänder får den personuppgiftsansvarige inte_
+> _längre behandla dina personuppgifter, undantaget om den_
+> _personuppgiftsansvarige kan visa tvingande berättigade skäl för_
+> _behandlingen som väger tyngre än dina intressen, rättigheter och_
+> _friheter eller om det sker för fastställande, utövande eller försvar_
+> _av rättsliga anspråk. Om du invänder mot direktmarknadsföring kommer_
+> _behandlingen för detta ändamål att upphöra._
 
 ### Rätt till tillgång (artikel 15 i GDPR)
 
 Du har rätt att få en bekräftelse på om personuppgifter som rör dig behandlas av den personuppgiftsansvarige, en kopia av de personuppgifter som är under behandling och information om behandlingen. 
 
-> **I detalj.** Den information du i sådana fall får tillgång till är:
->
+> _**I detalj.** Den information du i sådana fall får tillgång till är:_
 > - _ändamålen med behandlingen;_
 > - _de kategorier av personuppgifter som behandlingen gäller;_
 > - _de mottagare eller kategorier av mottagare till vilka personuppgifterna har lämnats eller ska lämnas ut, särskilt mottagare i tredjeländer eller internationella organisationer;_
@@ -147,37 +153,38 @@ Du har rätt att få en bekräftelse på om personuppgifter som rör dig behandl
 > - _rätten att inge klagomål till en tillsynsmyndighet;_
 > - _förekomsten av automatiserat beslutsfattande, inbegripet profilering enligt artiklarna 22.1 och 22.4 i GDPR; och_
 > - _om personuppgifterna överförs till ett tredjeland eller till en internationell organisation, har du även rätt till information om de lämpliga skyddsåtgärder som i enlighet med artikel 46 i GDPR har vidtagits vid överföringen._
-
+<br>
 > _Du har rätt att få en kopia av de personuppgifter som behandlas av den personuppgiftsansvarige. För eventuella ytterligare kopior som du begär får den personuppgiftsansvarige ta ut en rimlig avgift på grundval av dess administrativa kostnader. Om du har begärt informationen via elektronisk form kommer du att få informationen i ett elektroniskt format som är allmänt använt, om du inte begär något annat._
 
 ### Rätt till rättelse (artikel 16 i GDPR)
 
 Du har rätt att utan onödigt dröjsmål få felaktiga personuppgifter som rör dig rättade. Med beaktande av ändamålet har du även rätt att komplettera ofullständiga personuppgifter, bland annat genom att tillhandahålla ett kompletterande utlåtande.
 
-> **I detalj.** Den personuppgiftsansvarige kommer underrätta varje
-> mottagare till vilka personuppgifterna har lämnats ut om eventuell
-> rättelse som skett, om inte detta visar sig vara omöjligt eller medför
-> en oproportionell ansträngning.
+> _**I detalj.** Den personuppgiftsansvarige kommer underrätta varje_
+> _mottagare till vilka personuppgifterna har lämnats ut om eventuell_
+> _rättelse som skett, om inte detta visar sig vara omöjligt eller medför_
+> _en oproportionell ansträngning._
 
 ### Rätt till radering (rätten att bli bortglömd) (artikel 17 i GDPR)
 
 Du har rätt att utan onödigt dröjsmål få dina personuppgifter raderade av den personuppgiftsansvarige.
 
-> **I detalj.** Den personuppgiftsansvarige har en skyldighet att utan
-> onödigt dröjsmål radera dina personuppgifter om något av följande
-> gäller:
->
+> _**I detalj.** Den personuppgiftsansvarige har en skyldighet att utan_
+> _onödigt dröjsmål radera dina personuppgifter om något av följande_
+> _gäller:_
 > - _personuppgifterna inte längre är nödvändiga för de ändamål som de samlats in eller behandlats för;_
 > - _du invänder mot behandlingen enligt artikel 21.1 i GDPR och det saknas berättigade skäl för behandlingen som väger tyngre, eller du invänder mot behandlingen i enlighet med artikel 21.2 i GDPR;_
 > - _personuppgifterna har behandlats på olagligt sätt; eller_
 > - _personuppgifterna måste raderas för att uppfylla en rättslig förpliktelse i unionsrätten eller i medlemsstaternas nationella rätt som den personuppgiftsansvarige omfattas av._
 >
-> _Notera att den personuppgiftsansvariges skyldighet att radera personuppgifter inte gäller i den utsträckning som behandlingen är nödvändig av följande skäl:_
 >
+> _Notera att den personuppgiftsansvariges skyldighet att radera personuppgifter inte gäller i den utsträckning som behandlingen är nödvändig av följande skäl:_
+
 > - _för att utöva rätten till yttrande- och informationsfrihet;_
 > - _för att uppfylla en rättslig förpliktelse som kräver behandling enligt unionsrätten eller enligt en medlemsstats nationella rätt som den personuppgiftsansvarige omfattas av eller för att utföra en uppgift av allmänt intresse eller som är ett led i myndighetsutövning som utförs av den personuppgiftsansvarige;_
 > - _för arkivändamål av allmänt intresse, vetenskapliga eller historiska forskningsändamål eller statistiska ändamål enligt artikel 89.1 i GDPR, i den utsträckning som din rätt till radering sannolikt omöjliggör eller avsevärt försvårar uppnåendet av syftet med den behandlingen; eller _
-> - _för att kunna fastställa, göra gällande eller försvara rättsliga anspråk._ > 
+> - _för att kunna fastställa, göra gällande eller försvara rättsliga anspråk._ 
+>
 >
 >_Den personuppgiftsansvarige kommer underrätta varje mottagare till vilka personuppgifterna har lämnats ut om eventuell radering som skett enligt ovan, om inte detta visar sig vara omöjligt eller medför en oproportionell ansträngning. Om du vill ha information om dessa mottagare är du välkommen att kontakta Agronod._
 
@@ -185,14 +192,15 @@ Du har rätt att utan onödigt dröjsmål få dina personuppgifter raderade av d
 
 Du har rätt att begära att behandlingen av dina personuppgifter begränsas.
 
-> **I detalj.** Din rätt gäller om:
->
+> _**I detalj.** Din rätt gäller om:_
 > - _du bestrider uppgifternas riktighet (dock endast under en tid som ger den personuppgiftsansvarige möjlighet att kontrollera detta);_
 > - _behandlingen är olaglig och du motsätter dig att personuppgifterna raderas samt istället begär en begränsning av uppgifternas användning;_
 > - _du behöver personuppgifterna för att göra gällande eller försvara rättsliga anspråk trots att den personuppgiftsansvarige inte längre behöver personuppgifterna för den personuppgiftsansvariges ändamål med behandlingen; eller_
 > - _du har invänt mot behandlingen i enlighet med artikel 21.1 i GDPR och den personuppgiftsansvarige inte har utfört en kontroll av om den personuppgiftsansvariges berättigade intresse att behandla dina personuppgifter väger tyngre än ditt berättigade skäl av att behandlingen av dina personuppgifter begränsas._
 >
+>
 > _Om behandlingen begränsas får de aktuella personuppgifterna, med undantag för lagring, endast behandlas med ditt samtycke eller för att fastställa, göra gällande eller försvara rättsliga anspråk eller för att skydda någon annan fysisk eller juridisk persons rättigheter eller för skäl som rör ett viktigt allmänintresse för unionen eller för en medlemsstat. Den personuppgiftsansvarige kommer att meddela dig innan begränsningen av behandlingen upphör._
+>
 >
 > _Den personuppgiftsansvarige kommer underrätta varje mottagare till vilka personuppgifterna har lämnats ut om eventuell begräsning av behandling som skett enligt ovan, om inte detta visar sig vara omöjligt eller medför en oproportionell ansträngning. Om du vill ha information om dessa mottagare är du välkommen att kontakta Agronod._
 
@@ -200,10 +208,10 @@ Du har rätt att begära att behandlingen av dina personuppgifter begränsas.
 
 Du har rätt att få ut dina personuppgifter i ett strukturerat, allmänt använt och maskinläsbart format från den personuppgiftsansvarige. Du har även rätt att få dina personuppgifter överförda till en annan personuppgiftsansvarig när det är tekniskt möjligt (”dataportabilitet”).
 
-> **I detalj.** Rätten till dataportabilitet gäller för personuppgifter
-> som du har lämnat till den personuppgiftsansvarige i ett strukturerat,
-> allmänt använt och maskinläsbart format om behandlingen baserar sig på
-> den lagliga grunden fullgörande av avtal (artikel 6.1 b) i GDPR) och
-> behandlingen sker automatiserat.
+> _**I detalj.** Rätten till dataportabilitet gäller för personuppgifter_
+> _som du har lämnat till den personuppgiftsansvarige i ett strukturerat,_
+> _allmänt använt och maskinläsbart format om behandlingen baserar sig på_
+> _den lagliga grunden fullgörande av avtal (artikel 6.1 b) i GDPR) och_
+> _behandlingen sker automatiserat._
 >
 > _Din rätt till dataportabilitet får inte påverka andras rättigheter och friheter på ett ogynnsamt sätt._
