@@ -21,9 +21,9 @@ Agronod kan komma att behandla dina personuppgifter i följande situationer:
 - I samband med att du ansluter tjänster, detta beskrivs i avsnitt \[5\]
 
 - För support, kvalitetssäkring och utveckling av plattformen \[6\]
-
+<br>
 I avsnitt \[7\] kan du läsa om dina rättigheter med anledning av samtliga av våra personuppgiftsbehandlingar.
-<br><br>
+<br><br><br><br>
 I samband med att (=innan) du genom dina val ansluter nya datakällor eller tjänster, ger vi dig alltid specifik information om vad som gäller utöver den allmänna information som ges i denna integritetspolicy. Denna speciella information är av typen:
 
 - Vilket är ändamålet med personuppgiftsbehandlingen?
