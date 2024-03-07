@@ -21,9 +21,9 @@ Agronod kan komma att behandla dina personuppgifter i följande situationer:
 - I samband med att du ansluter tjänster, detta beskrivs i avsnitt \[5\]
 
 - För support, kvalitetssäkring och utveckling av plattformen \[6\]
-<br><br>
+
+<br>
 I avsnitt \[7\] kan du läsa om dina rättigheter med anledning av samtliga av våra personuppgiftsbehandlingar.
- <br>
  <br>
  <br>
  <br>
