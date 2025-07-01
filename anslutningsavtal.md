@@ -41,6 +41,22 @@ Lantbrukaren åtar sig att efterleva Agronods vid var tid gällande instruktione
 **3.1**<br />
 Agronod åtar sig att endast använda Lantbruksdata, och låta Dataanvändare använda, Lantbruksdata i enlighet med de villkor och restriktioner som följer av lämnad Fullmakt och enligt bakomliggande avtal med Datakällor. Agronod ansvarar härvid mot respektive Datakälla enligt respektive avtal. Agronod ansvarar vidare för att vidta lämpliga åtgärder mot Dataanvändare, i det fall Dataanvändaren inte efterlever de villkor och restriktioner som följer av relevant avtal med Agronod.
 
+**3.2**<br />
+Kommersiella aspekter <br />
+Agronods övergripande mål är att skapa värde för Lantbrukare genom att utveckla och driva tjänster eller förutsättningar för tjänster, såsom klimatberäkningsverktyget Agrosfär, vilket förutsätter att viss Lantbruksdata delas med Agronod i enlighet med gällande lag- och säkerhetskrav.
+
+I samband med Lantbrukarens datadelning uppstår ofta kommersiella avtal som styr ekonomiska villkor och ersättningar kopplade till insamling och vidareförädling av data. Dessa kan ta sig uttryck i två huvudsakliga former:
+<br />
+a) Ersättning från Agronod för data: Agronod kan i vissa fall betala en ersättning till den Datakälla, dvs den organisation eller det företag, som baserat på Lantbrukarens aktiva samtycke, delar data med Agronod för ett visst syfte. Denna ersättning avtalas separat och knyts vanligtvis till rådata eller annan informationsmängd som möjliggör förädling av Agronods tjänster på plattformen. 
+<br />
+b) Ersättning till Agronod för data eller förädlade tjänster: Vid andra tillfällen kan Agronod erhålla betalning från Dataanvändare, dvs externa parter (t.ex. företag eller organisationer), för att tillgängliggöra rådata eller bearbetade analyser som baseras på Lantbrukarens datadelning. Detta kan exempelvis ske genom licensavtal eller andra kommersiella överenskommelser där Agronod förädlar data och skapar mervärde för slutkunder. 
+
+**3.3**<br />
+Efterlevnad av gällande lagstiftning <br />
+Agronod följer dataskyddsförordningen (GDPR) och andra tillämpliga regelverk. All kommersiell användning av data ska ske i enlighet med gällande lagar, myndighetsföreskrifter och interna riktlinjer för säkerhet och integritet. Agronod förbinder sig att inte dela Lantbruksdata eller Lantbrukarens personuppgifter utan ett giltigt lagligt stöd. 
+
+
+
 ## 4. Avtalstid och uppsägning
 
 **4.1**<br />
