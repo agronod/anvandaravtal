@@ -109,6 +109,10 @@ För att hålla vår plattform uppdaterad, säker samt relevant behandlas data �
 
 - Dessa behandlingar kan förekomma så länge det är relevant, dvs så länge personuppgifterna i fråga finns kvar och hanteras på vår plattform.
 
+Vi använder webbanalysverktyget Matomo för sidbesök i våra egna applikationer, det vill säga när du arbetar i inloggat läge. Användningens syfte är att få stöd till arbetet med löpande applikationsutveckling genom insikter såsom antal sidbesök och vad våra användare klickar på.  
+
+För att värna om våra användares integritet använder vi IP-anonymisering vid datainsamlingen. Det innebär att användarens IP-nummer tas bort vid insamling. 
+
 ## 7. Beskrivning av dina rättigheter med anledning behandlingen av dina personuppgifter
 
 Du har rättigheter med anledning av den behandling av dina personuppgifter som beskrivs i detta dokument, vilka beskrivs nedan. Om du har frågor om personuppgiftsbehandlingen eller vill utöva dina rättigheter kontaktar du enklast Agronod per telefon: 073-376 26 06 eller e-post: dataskydd@agronod.com.
