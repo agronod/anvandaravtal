@@ -109,7 +109,11 @@ För att hålla vår plattform uppdaterad, säker samt relevant behandlas data �
 
 - Dessa behandlingar kan förekomma så länge det är relevant, dvs så länge personuppgifterna i fråga finns kvar och hanteras på vår plattform.
 
+<br/>
+<br/>
+
 Vi använder webbanalysverktyget Matomo för sidbesök i våra egna applikationer, det vill säga när du arbetar i inloggat läge. Användningens syfte är att få stöd till arbetet med löpande applikationsutveckling genom insikter såsom antal sidbesök och vad våra användare klickar på.  
+<br/>
 
 För att värna om våra användares integritet använder vi IP-anonymisering vid datainsamlingen. Det innebär att användarens IP-nummer tas bort vid insamling. 
 
